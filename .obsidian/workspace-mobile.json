@@ -117,9 +117,17 @@
             "file": "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Atomic Models (CH-1).md"
           }
         }
+      },
+      {
+        "id": "1d0b65ce3646da5e",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -131,7 +139,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77ff8da8f37b201b",
+  "active": "ffafd544d217e1b2",
   "lastOpenFiles": [
     "README.md",
     "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Atomic Models (CH-1).md",
