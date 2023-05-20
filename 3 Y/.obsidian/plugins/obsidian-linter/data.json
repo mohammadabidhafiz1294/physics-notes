@@ -1,24 +1,22 @@
 {
-  "ruleConfigs": {
-    "escape-yaml-special-characters": {
-      "enabled": false,
-      "try-to-escape-single-line-arrays": false
-    },
-    "force-yaml-escape": {
-      "enabled": false,
-      "force-yaml-escape-keys": ""
-    },
-    "format-tags-in-yaml": {
-      "enabled": false
-    },
-    "format-yaml-array": {
-      "enabled": false,
-      "alias-key": true,
-      "tag-key": true,
-      "default-array-style": "single-line",
-      "default-array-keys": true,
-      "force-single-line-array-style": "",
-      "force-multi-line-array-style": ""
+  "ruleConfigs": {},
+  "lintOnSave": false,
+  "recordLintOnSaveLogs": false,
+  "displayChanged": true,
+  "settingsConvertedToConfigKeyValues": true,
+  "foldersToIgnore": [],
+  "linterLocale": "system-default",
+  "logLevel": 4,
+  "lintCommands": [],
+  "customRegexes": [],
+  "commonStyles": {
+    "aliasArrayStyle": "single-line",
+    "tagArrayStyle": "single-line",
+    "minimumNumberOfDollarSignsToBeAMathBlock": 2,
+    "escapeCharacter": "\"",
+    "removeUnnecessaryEscapeCharsForMultiLineArrays": false
+  }
+}     "force-multi-line-array-style": ""
     },
     "insert-yaml-attributes": {
       "enabled": false,
