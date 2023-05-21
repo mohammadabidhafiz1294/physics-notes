@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/X-Rays (CH-4).md",
+                "file": "3 Y/MathJAX note samples.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/X-Rays (CH-4).md",
+            "file": "3 Y/MathJAX note samples.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/X-Rays (CH-4).md",
+            "file": "3 Y/MathJAX note samples.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/X-Rays (CH-4).md"
+            "file": "3 Y/MathJAX note samples.md"
           }
         }
       }
@@ -134,6 +134,7 @@
   },
   "active": "a5cdc6c54cd482c4",
   "lastOpenFiles": [
+    "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/X-Rays (CH-4).md",
     "3 Y/MathJAX note samples.md",
     "/3 Y/MathJAX note samples.md",
     "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Atomic Models (CH-1).md",
