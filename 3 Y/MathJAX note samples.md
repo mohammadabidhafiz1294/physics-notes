@@ -1,3 +1,4 @@
+
 $$\left(\frac{1}{\sqrt{x}}\right)$$
 
 $$a_{1},\ a_{i_{1}},\ a^{2},\ a^{b^{c}}$$
@@ -23,10 +24,19 @@ $$
 \end{align}
 $$
 $$
-\begin{equation} \label{eq:1}
+\begin{equation}
 6^2 - 5 = 36-5 = 31
 \end{equation}
 $$
-this references equation \ref{eq:1}
 
 $$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
+
+
+
+$$
+\begin{matrix}
+1 & x & x^2 \\
+1 & y & y^2 \\
+1 & z & z^2 \\
+\end{matrix}
+$$
