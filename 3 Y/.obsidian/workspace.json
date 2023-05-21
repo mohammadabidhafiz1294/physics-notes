@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-1).md",
+                "file": "ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-1).md",
+                "file": "ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-1).md",
+                "file": "ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-1).md"
+                "file": "ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md"
               }
             }
           },
@@ -158,19 +158,19 @@
   },
   "active": "789aad4eda73cbc2",
   "lastOpenFiles": [
-    "STATISTICAL MECHANICS (PH-307)/Classical Statistical Mechanics (CH-1).md",
+    "ATOMIC & MOLECULAR PHYSICS (PH-303)/X-Rays (CH-4).md",
+    "ATOMIC & MOLECULAR PHYSICS (PH-303)/Atomic Models (CH-1).md",
     "STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-1).md",
+    "STATISTICAL MECHANICS (PH-307)/Classical Statistical Mechanics (CH-1).md",
     "SOLID STATE PYSICS (PH-305)/Crystal Systems (CH-1).md",
     "RELATIVITY (PH-308)/Background (CH-1).md",
     "SOLID STATE PYSICS (PH-305)/Imperfections in Crystals (CH-6).md",
-    "ATOMIC & MOLECULAR PHYSICS (PH-303)/Atomic Models (CH-1).md",
     "NUCLEAR PHYSICS (PH-304)/Radioactivity (CH-2).md",
     "NUCLEAR PHYSICS (PH-304)/the Nucleus (PH-1).md",
     "NUCLEAR PHYSICS (PH-304)/Nuclear Reactions (CH-5).md",
     "QUANTUM MECHANICS (PH-302)/Physical Basis of Quantum Mechanics (CH-1).md",
     "ELECTRODYNAMICS (PH-301)/Radiation from an Accelerated Charge (CH-5).md",
     "ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
-    "ATOMIC & MOLECULAR PHYSICS (PH-303)/X-Rays (CH-4).md",
     "RELATIVITY (PH-308)",
     "STATISTICAL MECHANICS (PH-307)",
     "ELECTRONICS (PH-306)",
