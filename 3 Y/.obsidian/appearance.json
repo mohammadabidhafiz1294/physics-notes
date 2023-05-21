@@ -1,3 +1,5 @@
 {
-  "accentColor": "#6bef93"
+  "accentColor": "#6bef93",
+  "nativeMenus": false,
+  "translucency": true
 }
