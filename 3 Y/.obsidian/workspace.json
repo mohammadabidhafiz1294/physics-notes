@@ -34,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MathJAX note samples.md",
+                "file": "ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MathJAX note samples.md",
+                "file": "ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MathJAX note samples.md"
+                "file": "ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md"
               }
             }
           },
@@ -170,10 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fa819a12fd1159a",
+  "active": "789aad4eda73cbc2",
   "lastOpenFiles": [
-    "ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
     "MathJAX note samples.md",
+    "ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
     "ELECTRODYNAMICS (PH-301)/Radiation from an Accelerated Charge (CH-5).md",
     "ATOMIC & MOLECULAR PHYSICS (PH-303)/Atomic Models (CH-1).md",
     "ATOMIC & MOLECULAR PHYSICS (PH-303)/X-Rays (CH-4).md",
