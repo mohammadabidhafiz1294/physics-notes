@@ -1,7 +1,10 @@
 /* Adjust the size of math text */
 .MathJax_Display,
 .MathJax_SVG_Display {
-    font-size: 18px; /* Change this value to your desired size */
+    font-size: 20px; /* Change this value to your desired size */
+}
+.MJX-TEX{
+    font-size: 20px;
 }
 
 .MathJax .MathJax_SVG {

@@ -1,3 +1,7 @@
 {
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "vimMode": false,
+  "legacyEditor": false,
+  "tabSize": 3,
+  "showFrontmatter": true
 }
