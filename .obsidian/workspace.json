@@ -4,23 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "738b81f197910dbe",
+        "id": "f9912cedff6778c9",
         "type": "tabs",
         "children": [
           {
-            "id": "789aad4eda73cbc2",
+            "id": "355ad463adab865a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7fa819a12fd1159a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3 Y/SOLID STATE PYSICS (PH-305)/Crystal Systems (CH-1).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3 Y/SOLID STATE PYSICS (PH-305)/Crystal Systems (CH-1).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3 Y/SOLID STATE PYSICS (PH-305)/Crystal Systems (CH-1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3 Y/SOLID STATE PYSICS (PH-305)/Crystal Systems (CH-1).md"
+              }
             }
           },
           {
@@ -155,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "789aad4eda73cbc2",
+  "active": "355ad463adab865a",
   "lastOpenFiles": [
     "MathJAX note samples.md",
     "ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
