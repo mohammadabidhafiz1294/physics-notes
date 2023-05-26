@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Y/SOLID STATE PYSICS (PH-305)/Crystal Systems (CH-1).md",
+                "file": "3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5128364562988
+    "width": 275.5128364562988
   },
   "right": {
     "id": "de071c2775da4e50",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Y/SOLID STATE PYSICS (PH-305)/Crystal Systems (CH-1).md",
+                "file": "3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Y/SOLID STATE PYSICS (PH-305)/Crystal Systems (CH-1).md",
+                "file": "3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Y/SOLID STATE PYSICS (PH-305)/Crystal Systems (CH-1).md"
+                "file": "3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "355ad463adab865a",
   "lastOpenFiles": [
+    "README.md",
+    "3 Y/SOLID STATE PYSICS (PH-305)/Crystal Systems (CH-1).md",
     "MathJAX note samples.md",
     "ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
     "ELECTRODYNAMICS (PH-301)/Radiation from an Accelerated Charge (CH-5).md",
@@ -194,8 +196,6 @@
     "Linux/LINUX CHEATSHEET DOCUMENTATION.md",
     "linux system structure 2.png",
     "Pasted linux file system structure.png.png",
-    "Pasted linux file system structure.png.md",
-    "delimiter.md",
     "Pasted image 20230511101702.png",
     "Linux"
   ]
