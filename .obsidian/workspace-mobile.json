@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Y/MathJAX note samples.md",
+                "file": "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Predictable Questions Atomi science.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -24,16 +24,15 @@
             "id": "a0e85fe8cd8c51b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Predictable Questions Atomi science.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": ".obsidian/workspace-mobile.json",
+                "staged": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "3 Y/MathJAX note samples.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -116,7 +114,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "3 Y/MathJAX note samples.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,9 +124,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "3 Y/MathJAX note samples.md"
-          }
+          "state": {}
         }
       },
       {
@@ -153,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5cdc6c54cd482c4",
+  "active": "a0e85fe8cd8c51b3",
   "lastOpenFiles": [
     "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Predictable Questions Atomi science.md",
     "conflict-files-obsidian-git.md",
