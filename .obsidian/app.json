@@ -1,11 +1,25 @@
 {
-<<<<<<< HEAD
-  "alwaysUpdateLinks": true
-=======
-  "alwaysUpdateLinks": true,
-  "vimMode": false,
-  "legacyEditor": false,
-  "tabSize": 3,
-  "showFrontmatter": true
->>>>>>> refs/remotes/origin/main
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:insert-tag",
+    "editor:toggle-highlight",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-blockquote",
+    "editor:toggle-strikethrough",
+    "editor:toggle-code",
+    "editor:attach-file",
+    "editor:insert-embed",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:redo",
+    "editor:toggle-keyboard",
+    "editor:configure-toolbar",
+    "editor:undo"
+  ]
 }

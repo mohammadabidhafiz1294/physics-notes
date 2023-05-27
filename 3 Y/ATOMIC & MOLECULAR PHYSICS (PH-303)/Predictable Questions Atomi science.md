@@ -1,4 +1,4 @@
-### what is the more sustainable in atom ?? electron /proton /nutron??
+### *what is the more sustainable in atom ?? electron /proton /nutron??*
 
 *Answer:* **Yes**. An electron has no internal structure, and is the lightest fundamental particle with a non-zero electric charge. Therefore it cannot spontaneously decay into a lighter particle without violating charge conservation. So any transformation of an electron must either involve adding a large amount of energy to it, or an interaction with another particle (e.g. [electron capture](https://en.wikipedia.org/wiki/Electron_capture) or [electron-positron annihilation](https://en.wikipedia.org/wiki/Electron%E2%80%93positron_annihilation)).
 
