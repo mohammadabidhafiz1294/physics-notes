@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
+                "file": "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Predictable Questions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
+                "file": "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Predictable Questions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
+                "file": "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Predictable Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md"
+                "file": "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Predictable Questions.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "355ad463adab865a",
   "lastOpenFiles": [
+    "3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
+    "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Predictable Questions.md",
     "README.md",
     "3 Y/SOLID STATE PYSICS (PH-305)/Crystal Systems (CH-1).md",
     "MathJAX note samples.md",
@@ -192,8 +194,6 @@
     "Linux/Linux File System Implemetation.md",
     "Linux/Linux File Hierarchy Structure.md",
     "Linux/Linux Variable grep command.md",
-    "Linux/Linux Cheat Sheet.md",
-    "Linux/LINUX CHEATSHEET DOCUMENTATION.md",
     "linux system structure 2.png",
     "Pasted linux file system structure.png.png",
     "Pasted image 20230511101702.png",
