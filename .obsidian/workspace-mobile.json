@@ -24,10 +24,12 @@
             "id": "a0e85fe8cd8c51b3",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace-mobile.json",
-                "staged": false
+                "file": "3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -98,6 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,6 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +128,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md"
+          }
         }
       },
       {
@@ -148,12 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0e85fe8cd8c51b3",
+  "active": "e521be5d14974c7a",
   "lastOpenFiles": [
     "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Predictable Questions Atomi science.md",
+    "3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
     "conflict-files-obsidian-git.md",
     "3 Y/MathJAX note samples.md",
-    "3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
     "Contacts-2021-08-23.vcf",
     "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/X-Rays (CH-4).md",
     "/3 Y/MathJAX note samples.md",

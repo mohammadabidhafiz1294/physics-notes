@@ -1,7 +1,7 @@
 {
   "mobileToolbarCommands": [
-    "editor:insert-wikilink",
     "editor:insert-tag",
+    "editor:insert-wikilink",
     "editor:toggle-highlight",
     "editor:set-heading",
     "editor:toggle-bold",
@@ -14,12 +14,12 @@
     "editor:insert-link",
     "editor:toggle-bullet-list",
     "editor:toggle-numbered-list",
-    "editor:toggle-checklist-status",
     "editor:indent-list",
     "editor:unindent-list",
     "editor:redo",
     "editor:toggle-keyboard",
     "editor:configure-toolbar",
+    "editor:toggle-checklist-status",
     "editor:undo"
   ]
 }
