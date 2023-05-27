@@ -118,9 +118,17 @@
             "file": "3 Y/MathJAX note samples.md"
           }
         }
+      },
+      {
+        "id": "c477b8543cbf8177",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
