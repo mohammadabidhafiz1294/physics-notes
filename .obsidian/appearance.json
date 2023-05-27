@@ -1,3 +1,12 @@
 {
+<<<<<<< HEAD
   "accentColor": "#6bef93"
+=======
+  "accentColor": "#6bef93",
+  "nativeMenus": false,
+  "translucency": true,
+  "enabledCssSnippets": [
+    "obsidian"
+  ]
+>>>>>>> refs/remotes/origin/main
 }

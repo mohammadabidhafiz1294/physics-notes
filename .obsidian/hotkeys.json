@@ -14,5 +14,18 @@
       ],
       "key": "G"
     }
+<<<<<<< HEAD
   ]
+=======
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-checklist-status": []
+>>>>>>> refs/remotes/origin/main
 }
