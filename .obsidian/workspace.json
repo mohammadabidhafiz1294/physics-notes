@@ -84,9 +84,13 @@
     ],
     "direction": "horizontal",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "width": 261.5128364562988
 =======
     "width": 275.5128364562988
+>>>>>>> refs/remotes/origin/main
+=======
+    "width": 248.51283645629883
 >>>>>>> refs/remotes/origin/main
   },
   "right": {
@@ -107,9 +111,14 @@
                 "file": "STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-1).md",
 =======
                 "file": "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Predictable Questions Atomi science.md",
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/main
                 "collapseAll": true,
                 "extraContext": true,
+=======
+                "collapseAll": false,
+                "extraContext": false,
+>>>>>>> refs/remotes/origin/main
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -167,12 +176,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
