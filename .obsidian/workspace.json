@@ -1,53 +1,35 @@
 {
   "main": {
-    "id": "d3e7bc2c5b46ed90",
+    "id": "7510ed9a9f5bc070",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "738b81f197910dbe",
+        "id": "f9093ee6187aefc2",
         "type": "tabs",
         "children": [
           {
-            "id": "789aad4eda73cbc2",
-=======
-        "id": "f9912cedff6778c9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "355ad463adab865a",
->>>>>>> refs/remotes/origin/main
+            "id": "bb0010d0e051fd24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-1).md",
-=======
-                "file": "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Predictable Questions Atomi science.md",
->>>>>>> refs/remotes/origin/main
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cca6b8bf27e745e5",
+    "id": "06ca33093fd34cff",
     "type": "split",
     "children": [
       {
-        "id": "18fbaab2c1723642",
+        "id": "b89d11639698b864",
         "type": "tabs",
         "children": [
           {
-            "id": "4268f5021e97a559",
+            "id": "0f49ad38d21384c0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -57,7 +39,7 @@
             }
           },
           {
-            "id": "8d64b8acec15b925",
+            "id": "998294d78f844e2a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -72,7 +54,7 @@
             }
           },
           {
-            "id": "48827b86afd94397",
+            "id": "33e2eb80b8afe8a4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,68 +65,45 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "width": 261.5128364562988
-=======
-    "width": 275.5128364562988
->>>>>>> refs/remotes/origin/main
-=======
-    "width": 248.51283645629883
->>>>>>> refs/remotes/origin/main
+    "width": 300
   },
   "right": {
-    "id": "de071c2775da4e50",
+    "id": "d002526171d1c03c",
     "type": "split",
     "children": [
       {
-        "id": "d9218b593b6ead9b",
+        "id": "08ada9cde5507a01",
         "type": "tabs",
         "children": [
           {
-            "id": "b5ee7002782a2723",
+            "id": "2a97dac14b789773",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-1).md",
-=======
-                "file": "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Predictable Questions Atomi science.md",
-<<<<<<< HEAD
->>>>>>> refs/remotes/origin/main
-                "collapseAll": true,
-                "extraContext": true,
-=======
                 "collapseAll": false,
                 "extraContext": false,
->>>>>>> refs/remotes/origin/main
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "68ac268633186c34",
+            "id": "45151bb4f0b50d5f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-1).md",
-=======
-                "file": "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Predictable Questions Atomi science.md",
->>>>>>> refs/remotes/origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "00abffcc92339f55",
+            "id": "e2edfaf6ba807b80",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -155,21 +114,15 @@
             }
           },
           {
-            "id": "f776f03d00ceafe3",
+            "id": "0525e66132925be3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-1).md"
-=======
-                "file": "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Predictable Questions Atomi science.md"
->>>>>>> refs/remotes/origin/main
-              }
+              "state": {}
             }
           },
           {
-            "id": "c581437098f66067",
+            "id": "b7a18773bd5b4352",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -181,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,73 +146,6 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "789aad4eda73cbc2",
-  "lastOpenFiles": [
-    "STATISTICAL MECHANICS (PH-307)/Classical Statistical Mechanics (CH-1).md",
-    "STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-1).md",
-    "SOLID STATE PYSICS (PH-305)/Crystal Systems (CH-1).md",
-    "RELATIVITY (PH-308)/Background (CH-1).md",
-    "SOLID STATE PYSICS (PH-305)/Imperfections in Crystals (CH-6).md",
-    "ATOMIC & MOLECULAR PHYSICS (PH-303)/Atomic Models (CH-1).md",
-=======
-  "active": "355ad463adab865a",
-  "lastOpenFiles": [
-    "3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
-    "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Predictable Questions Atomi science.md",
-    "README.md",
-    "3 Y/SOLID STATE PYSICS (PH-305)/Crystal Systems (CH-1).md",
-    "MathJAX note samples.md",
-    "ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
-    "ELECTRODYNAMICS (PH-301)/Radiation from an Accelerated Charge (CH-5).md",
-    "ATOMIC & MOLECULAR PHYSICS (PH-303)/Atomic Models (CH-1).md",
-    "ATOMIC & MOLECULAR PHYSICS (PH-303)/X-Rays (CH-4).md",
-    "ATOMIC & MOLECULAR PHYSICS (PH-303)/Atomic Models (CH-1) 1.md",
-    "STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-1).md",
-    "STATISTICAL MECHANICS (PH-307)/Classical Statistical Mechanics (CH-1).md",
-    "SOLID STATE PYSICS (PH-305)/Crystal Systems (CH-1).md",
-    "RELATIVITY (PH-308)/Background (CH-1).md",
-    "SOLID STATE PYSICS (PH-305)/Imperfections in Crystals (CH-6).md",
->>>>>>> refs/remotes/origin/main
-    "NUCLEAR PHYSICS (PH-304)/Radioactivity (CH-2).md",
-    "NUCLEAR PHYSICS (PH-304)/the Nucleus (PH-1).md",
-    "NUCLEAR PHYSICS (PH-304)/Nuclear Reactions (CH-5).md",
-    "QUANTUM MECHANICS (PH-302)/Physical Basis of Quantum Mechanics (CH-1).md",
-<<<<<<< HEAD
-    "ELECTRODYNAMICS (PH-301)/Radiation from an Accelerated Charge (CH-5).md",
-    "ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
-    "ATOMIC & MOLECULAR PHYSICS (PH-303)/X-Rays (CH-4).md",
-=======
->>>>>>> refs/remotes/origin/main
-    "RELATIVITY (PH-308)",
-    "STATISTICAL MECHANICS (PH-307)",
-    "ELECTRONICS (PH-306)",
-    "SOLID STATE PYSICS (PH-305)",
-    "NUCLEAR PHYSICS (PH-304)",
-    "ATOMIC & MOLECULAR PHYSICS (PH-303)",
-    "QUANTUM MECHANICS (PH-302)",
-    "ELECTRODYNAMICS (PH-301)",
-    "preamble.sty",
-    "preamble.sty.md",
-    "File System.md",
-    "Internel links.md",
-    "File System Implemetation.md",
-    "linux system structure.jpg",
-    "Linux/Linux File System Implemetation.md",
-    "Linux/Linux File Hierarchy Structure.md",
-    "Linux/Linux Variable grep command.md",
-<<<<<<< HEAD
-    "Linux/Linux Cheat Sheet.md",
-    "Linux/LINUX CHEATSHEET DOCUMENTATION.md",
-    "linux system structure 2.png",
-    "Pasted linux file system structure.png.png",
-    "Pasted linux file system structure.png.md",
-    "delimiter.md",
-=======
-    "linux system structure 2.png",
-    "Pasted linux file system structure.png.png",
->>>>>>> refs/remotes/origin/main
-    "Pasted image 20230511101702.png",
-    "Linux"
-  ]
+  "active": "bb0010d0e051fd24",
+  "lastOpenFiles": []
 }
