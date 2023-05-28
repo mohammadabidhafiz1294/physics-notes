@@ -14,19 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "7e6b9fc2f1b883c1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.4"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,13 +120,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "b7a18773bd5b4352",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,6 +146,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e6b9fc2f1b883c1",
+  "active": "bb0010d0e051fd24",
   "lastOpenFiles": []
 }
