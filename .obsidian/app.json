@@ -21,5 +21,6 @@
     "editor:configure-toolbar",
     "editor:toggle-checklist-status",
     "editor:undo"
-  ]
+  ],
+  "promptDelete": false
 }
