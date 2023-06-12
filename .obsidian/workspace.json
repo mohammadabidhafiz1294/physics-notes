@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a97dac14b789773",
+  "active": "b7a18773bd5b4352",
   "lastOpenFiles": [
     "PHYSICS/3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md"
   ]
