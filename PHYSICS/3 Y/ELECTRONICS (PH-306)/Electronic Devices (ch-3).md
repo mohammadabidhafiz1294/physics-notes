@@ -27,3 +27,5 @@ There are different biasing methods used for transistor circuits, but two common
 The values of the biasing resistors are chosen carefully to achieve the desired operating point, taking into account factors such as desired collector current, transistor characteristics, and stability considerations. The biasing resistors ensure that the transistor operates in its active region, avoiding cutoff or saturation.
 
 Transistor biasing is crucial for achieving stable and linear amplification. Proper biasing ensures that the transistor remains in a region where small changes in input signal result in linear and undistorted output signals. The specific biasing method used depends on the application and circuit requirements, such as the desired bias stability, temperature variations, and power dissipation considerations.
+
+## BJT (Bipolar Junction Transistor)
