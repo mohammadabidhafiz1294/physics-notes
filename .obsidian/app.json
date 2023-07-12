@@ -24,5 +24,6 @@
   ],
   "promptDelete": false,
   "vimMode": false,
-  "legacyEditor": false
+  "legacyEditor": false,
+  "alwaysUpdateLinks": true
 }
