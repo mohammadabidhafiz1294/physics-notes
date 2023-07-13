@@ -11,8 +11,13 @@
             "id": "a5cdc6c54cd482c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PHYSICS/3 Y/ELECTRONICS (PH-306)/Electronic Devices (ch-3).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -89,6 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "PHYSICS/3 Y/ELECTRONICS (PH-306)/Electronic Devices (ch-3).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "PHYSICS/3 Y/ELECTRONICS (PH-306)/Electronic Devices (ch-3).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +122,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "PHYSICS/3 Y/ELECTRONICS (PH-306)/Electronic Devices (ch-3).md"
+          }
         }
       },
       {
@@ -131,16 +140,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
   "active": "a5cdc6c54cd482c4",
   "lastOpenFiles": [
+    "PHYSICS/3 Y/MathJAX note samples.md",
+    "ac vs dc coupling in capacitor.png",
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/Single stage transistor amplifier.md",
+    "PHYSICS/3 Y/ELECTRONICS (PH-306)/Electronic Devices (ch-3).md",
+    "/ac vs dc coupling in capacitor.png",
+    "/PHYSICS/3 Y/PRACTICAL(PH-310)/Single stage transistor amplifier.md",
+    "/PHYSICS/3 Y/ELECTRONICS (PH-306)/Electronic Devices (ch-3).md",
+    "PHYSICS/3 Y/PRACTICAL(PH-310)",
+    "PHYSICS/3 Y/ELECTRONICS (PH-306)",
+    "/PHYSICS/3 Y/PRACTICAL(PH-310)",
+    "/PHYSICS/3 Y/ELECTRONICS (PH-306)",
     "3 Y/ELECTRODYNAMICS (PH-301)/Radiation from an Accelerated Charge (CH-5).md",
     "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Predictable Questions Atomi science.md",
     "3 Y/QUANTUM MECHANICS (PH-302)/Physical Basis of Quantum Mechanics (CH-1).md",
