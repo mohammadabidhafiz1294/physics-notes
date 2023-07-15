@@ -13,3 +13,8 @@
     max-width: 100% !important;
     max-height: 100% !important;
 }
+
+.image-embed.is-loaded img[alt*="white"] {
+    background-color: white;
+}
+
