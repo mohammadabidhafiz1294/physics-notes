@@ -96,8 +96,7 @@ The common emitter amplifier configuration produces the highest current and powe
 
 ### The Common Emitter Amplifier Circuit
 
-![common emitter configuration](https://www.electronics-tutorials.ws/wp-content/uploads/2021/03/tran3.gif "Common Emitter Configuration")
-
+<img src="https://www.electronics-tutorials.ws/wp-content/uploads/2021/03/tran3.gif "Common Emitter Configuration"" style="background-color:white;" />
 In this type of configuration, the current flowing out of the transistor must be equal to the currents flowing into the transistor as the emitter current is given as Ie = Ic + Ib.
 
 As the load resistance ( RL ) is connected in series with the collector, the current gain of the common emitter transistor configuration is quite large as it is the ratio of Ic/Ib. A transistors current gain is given the Greek symbol of Beta, ( β ).
@@ -126,7 +125,7 @@ The common collector, or emitter follower configuration is very useful for imped
 
 ### The Common Collector Transistor Circuit
 
-![common collector configuration](https://www.electronics-tutorials.ws/wp-content/uploads/2018/05/transistor-tran4.gif "Common Collector Configuration")
+<img src="https://www.electronics-tutorials.ws/wp-content/uploads/2018/05/transistor-tran4.gif "Common Collector Configuration"" style="background-color:white;" />
 
 The common emitter configuration has a current gain approximately equal to the β value of the transistor itself. However in the common collector configuration, the load resistance is connected in series with the emitter terminal so its current is equal to that of the emitter current.
 
@@ -134,7 +133,7 @@ As the emitter current is the combination of the collector AND the base current 
 
 ### The Common Collector Current Gain
 
-![common collector gain](https://www.electronics-tutorials.ws/wp-content/uploads/2018/05/transistor-tran32.gif "Common Collector Gain")
+<img src="https://www.electronics-tutorials.ws/wp-content/uploads/2018/05/transistor-tran32.gif "Common Collector Gain"" style="background-color:white"/>
 
 ![Common Collector Current Gain](https://www.electronics-tutorials.ws/wp-content/uploads/2018/05/transistor-tran32a.gif "Common Collector Current Gain")
 
@@ -160,7 +159,7 @@ Then to summarise, the behaviour of the bipolar transistor in each one of the ab
 
 ### Bipolar Transistor Configurations
 
-![bipolar transistor configurations](https://www.electronics-tutorials.ws/wp-content/uploads/2020/04/tran54.gif "Bipolar Transistor Configurations")
+<img src="https://www.electronics-tutorials.ws/wp-content/uploads/2020/04/tran54.gif "Bipolar Transistor Configurations"" style="background-color:white"/>
 
 with the generalised characteristics of the different transistor configurations given in the following table:
 
