@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYSICS/3 Y/RELATIVITY (PH-308)/Background (CH-1).md",
+                "file": "PHYSICS/3 Y/RELATIVITY (PH-308)/Relativistic kinematics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYSICS/3 Y/RELATIVITY (PH-308)/Background (CH-1).md",
+                "file": "PHYSICS/3 Y/RELATIVITY (PH-308)/Relativistic kinematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYSICS/3 Y/RELATIVITY (PH-308)/Background (CH-1).md",
+                "file": "PHYSICS/3 Y/RELATIVITY (PH-308)/Relativistic kinematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYSICS/3 Y/RELATIVITY (PH-308)/Background (CH-1).md"
+                "file": "PHYSICS/3 Y/RELATIVITY (PH-308)/Relativistic kinematics.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "a1fee536e4451f68",
   "lastOpenFiles": [
+    "PHYSICS/3 Y/RELATIVITY (PH-308)/Background (CH-1).md",
     "PHYSICS/3 Y/RELATIVITY (PH-308)/Relativistic kinematics.md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/A Phase Shift Oscillator.md",
     "PHYSICS/3 Y/ELECTRONICS (PH-306)/Electronic Devices (ch-3).md",
