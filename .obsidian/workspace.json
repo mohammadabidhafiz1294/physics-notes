@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d8d666a460f8476d",
+        "id": "3344c509f1e764d6",
         "type": "tabs",
         "children": [
           {
-            "id": "87a848ad34ae47c9",
+            "id": "f7b8cba19bd082a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHYSICS/3 Y/SOLID STATE PYSICS (PH-305)/Imperfections in Crystals (CH-6).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYSICS/3 Y/SOLID STATE PYSICS (PH-305)/Imperfections in Crystals (CH-6).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYSICS/3 Y/SOLID STATE PYSICS (PH-305)/Imperfections in Crystals (CH-6).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PHYSICS/3 Y/SOLID STATE PYSICS (PH-305)/Imperfections in Crystals (CH-6).md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,12 +130,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,25 +147,29 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "0f49ad38d21384c0",
+  "active": "f7b8cba19bd082a2",
   "lastOpenFiles": [
-    "PHYSICS/3 Y/SOLID STATE PYSICS (PH-305)/Crystal Systems (CH-1).md",
+    "PHYSICS/IMAGES/schottky-defect.jpg",
+    "PHYSICS/IMAGES/lattice-site-vs-interstitial-site.png",
+    "PHYSICS/IMAGES/interstial-vs-vacancy-diffusion-OPT.svg",
+    "PHYSICS/IMAGES/frenkel-defect.jpg",
+    "PHYSICS/IMAGES/ac vs dc coupling in capacitor.png",
+    "PHYSICS/IMAGES/BJT terminals.png",
+    "PHYSICS/IMAGES",
+    "frenkel-defect.jpg.md",
+    "PHYSICS/3 Y/SOLID STATE PYSICS (PH-305)/Imperfections in Crystals (CH-6).md",
+    "PHYSICS/3 Y/RELATIVITY (PH-308)/Background (CH-1).md",
+    "conflict-files-obsidian-git.md",
+    "ac vs dc coupling in capacitor.png",
+    "BJT terminals.png",
     "PHYSICS/3 Y/RELATIVITY (PH-308)/Relativistic kinematics.md",
+    "PHYSICS/3 Y/SOLID STATE PYSICS (PH-305)/Crystal Systems (CH-1).md",
+    "README.md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/A Phase Shift Oscillator.md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/Single stage transistor amplifier.md",
-    "PHYSICS/3 Y/RELATIVITY (PH-308)/Background (CH-1).md",
-    "PHYSICS/3 Y/SOLID STATE PYSICS (PH-305)/Imperfections in Crystals (CH-6).md",
-    "PHYSICS/IMAGES/interstial-vs-vacancy-diffusion-OPT.svg",
-    "PHYSICS/IMAGES/lattice-site-vs-interstitial-site.png",
-    "PHYSICS/IMAGES/schottky-defect.jpg",
-    "PHYSICS/IMAGES/frenkel-defect.jpg",
-    "PHYSICS/IMAGES",
     "Pasted image 2023080619535.jpg.md",
-    "README.md",
     "PHYSICS/3 Y/ELECTRONICS (PH-306)/Electronic Devices (ch-3).md",
-    "PHYSICS/IMAGES/ac vs dc coupling in capacitor.png",
     "Untitled.canvas",
-    "PHYSICS/IMAGES/BJT terminals.png",
     "Pasted image 20230713024050.png",
     "![[Pasted image 20230713024050.png.md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)",
