@@ -3,8 +3,8 @@
 
 ### Vacant site vs Interstitial site 
  Vacancies, interstitials, and substitutions are three of them. **A vacancy is where an atom is missing from its lattice site**. The number of vacancies in a metal crystal increases as the temperature increases. An interstitial is an atom that occupies the space between the atoms on the lattice sites.
- ![[interstial-vs-vacancy-diffusion-OPT.svg|500]]
- ![[lattice-site-vs-interstitial-site.png]]
+ ![[interstial-vs-vacancy-diffusion-OPT.svg|400]]
+ ![[lattice-site-vs-interstitial-site.png|400]]
 
 ### Schottky defect vs Frenkel Defect
 
