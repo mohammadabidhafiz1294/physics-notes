@@ -43,8 +43,6 @@ It connects one stage of amplification to the next. If it is not use then the b
 
 So the coupling capacitor isolates D. C. from one stage to the next. So here Various circuit currents flowing through the amplifying circuit are **(i) Base current (ii) collector current and (iii) Emitter current.**
 
-See also this **[types of electron emission](https://specbee.net/types-electron-emission/)**
-
 ### **Base current** 
 
 When no signal is applied to the base circuit d. c. The **[biasing](https://en.wikipedia.org/wiki/Biasing)** circuit causes the current to flow through IB when a. c. The signal is applied a. c. Base current ib also flows through.
@@ -131,8 +129,6 @@ Joining the points A and B, d. c. The load line AB has been constructed.
 Actual operating conditions in the circuit will be represent by the point where d. c. load line intersects the base current curve.
 
 If IB = 5μA is set by the biasing circuit then ‘Q’ is the operating point as shown in figure.
-
-See also this **[what are the classification of electronic materials?](https://specbee.net/classification-electronic-materials/)**
 
 #### **(2) a. c. load line** 
 
