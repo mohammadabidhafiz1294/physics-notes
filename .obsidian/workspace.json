@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3344c509f1e764d6",
+        "id": "62cba40b210f7c90",
         "type": "tabs",
         "children": [
           {
-            "id": "f7b8cba19bd082a2",
+            "id": "f5631662d62ac348",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,8 +147,9 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "f7b8cba19bd082a2",
+  "active": "f5631662d62ac348",
   "lastOpenFiles": [
+    "frenkel-defect.jpg.md",
     "PHYSICS/IMAGES/schottky-defect.jpg",
     "PHYSICS/IMAGES/lattice-site-vs-interstitial-site.png",
     "PHYSICS/IMAGES/interstial-vs-vacancy-diffusion-OPT.svg",
@@ -156,7 +157,6 @@
     "PHYSICS/IMAGES/ac vs dc coupling in capacitor.png",
     "PHYSICS/IMAGES/BJT terminals.png",
     "PHYSICS/IMAGES",
-    "frenkel-defect.jpg.md",
     "PHYSICS/3 Y/SOLID STATE PYSICS (PH-305)/Imperfections in Crystals (CH-6).md",
     "PHYSICS/3 Y/RELATIVITY (PH-308)/Background (CH-1).md",
     "conflict-files-obsidian-git.md",
