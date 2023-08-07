@@ -56,3 +56,20 @@ By considering the thermodynamic probability of various microstates, statistical
 **Boltzmann constant**, (symbol _k_), a fundamental constant of [physics](https://www.britannica.com/science/physics-science) occurring in nearly every statistical formulation of both classical and quantum physics. The constant is named after [Ludwig Boltzmann](https://www.britannica.com/biography/Ludwig-Boltzmann), a 19th-century Austrian physicist, who substantially contributed to the foundation and development of statistical mechanics, a branch of theoretical physics. Having dimensions of [energy](https://www.britannica.com/science/energy) per degree of [temperature](https://www.britannica.com/science/temperature), the Boltzmann constant has a defined value of 1.380649 × 10−23 [joule](https://www.britannica.com/science/joule) per [kelvin](https://www.britannica.com/science/kelvin) (K), or 1.380649 × 10−16 [erg](https://www.britannica.com/science/erg-measurement) per kelvin. The [molar gas constant](https://www.britannica.com/science/universal-gas-constant) _R_ is defined as Avogadro’s number times the Boltzmann constant.
 
 The physical significance of _k_ is that **it provides a measure of the amount of energy (i.e., heat) corresponding to the random thermal motions of the particles making up a substance**. For a classical system at [equilibrium](https://www.merriam-webster.com/dictionary/equilibrium) at temperature _T_, the average energy per [degree of freedom](https://www.britannica.com/science/degree-of-freedom-mathematics-and-statistics) is _k__T_/2. In the simplest example of a [gas](https://www.britannica.com/science/gas-state-of-matter) consisting of _N_ non-interacting [atoms](https://www.britannica.com/science/atom), each atom has three translational degrees of freedom (it can move in the _x_-, _y_-, or _z_-directions), and so the total [thermal energy](https://www.britannica.com/science/thermal-energy) of the gas is 3_N__kbT_/2.
+
+### Burger's Vector
+
+  The Burgers vector of a dislocation is **a crystal vector, specified by Miller indices, that quantifies the difference between the distorted lattice around the dislocation and the perfect lattice**.
+
+Equivalently, the Burgers vector denotes the direction and magnitude of the atomic displacement that occurs when a dislocation moves.
+
+To determine the Burgers vector of a dislocation in a two-dimensional primitive square lattice, proceed as follows:
+
+Trace around the end of the dislocation plane to form a closed loop. Record the number of lattice vectors travelled along each side of the loop (shown here by the numbers in the boxes):
+
+![Diagram showing how to find the Burgers vector](https://www.doitpoms.ac.uk/tlplib/dislocations/images/burgers-vector1.gif)
+
+In a perfect lattice, trace out the same path, moving the same number of lattice vectors along each direction as before. This loop will not be complete, and the closure failure is the Burgers vector:
+
+![Diagram showing how to find the Burgers vector](https://www.doitpoms.ac.uk/tlplib/dislocations/images/burgers-vector2.gif)
+ 
