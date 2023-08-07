@@ -32,3 +32,21 @@ Molecule, atom, and valency are terms used in chemistry to describe different as
 - Oxygen (O) has six valence electrons and can form two chemical bonds, leading to the formation of diatomic oxygen (O2) molecules.
 
 > Understanding the concept of valency helps predict the types and numbers of chemical bonds that atoms can form when they combine to create molecules or compounds. The valency of elements is an essential factor in understanding chemical reactions and the formation of different chemical substances.
+
+
+### Thermodynamic Probability
+Thermodynamic probability, also known as statistical probability or Boltzmann probability, is a concept in statistical thermodynamics that describes the likelihood of a particular microstate occurring within a given macroscopic system.
+
+In statistical thermodynamics, a macroscopic system consists of a large number of microscopic particles (such as atoms or molecules), and each microscopic particle can exist in different energy states. The collection of all possible energy states of the system is known as the #microstate.
+
+The thermodynamic probability (P) of a specific microstate is given by the Boltzmann distribution, which is expressed as:
+
+P = exp(-E / kT)
+
+where: P = Thermodynamic probability of the microstate E = Energy of the microstate k = Boltzmann constant (a fundamental constant in physics) T = Temperature of the system
+
+According to the Boltzmann distribution, the thermodynamic probability of a microstate is proportional to the negative exponential of its energy divided by the product of the Boltzmann constant and the temperature.
+
+In simpler terms, the Boltzmann distribution tells us that the probability of finding a system in a particular microstate decreases with increasing energy and increasing temperature. Microstates with lower energy and lower temperature have higher probabilities of being realized in the system.
+
+By considering the thermodynamic probability of various microstates, statistical thermodynamics provides a statistical description of macroscopic properties of the system, such as temperature, pressure, and entropy. It allows us to understand and predict the behavior of macroscopic systems based on the statistical properties of their constituent microscopic particles.
