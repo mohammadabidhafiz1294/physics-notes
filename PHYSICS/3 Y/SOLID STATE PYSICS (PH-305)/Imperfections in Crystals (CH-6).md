@@ -72,4 +72,7 @@ Trace around the end of the dislocation plane to form a closed loop. Record the 
 In a perfect lattice, trace out the same path, moving the same number of lattice vectors along each direction as before. This loop will not be complete, and the closure failure is the Burgers vector:
 
 ![Diagram showing how to find the Burgers vector](https://www.doitpoms.ac.uk/tlplib/dislocations/images/burgers-vector2.gif)
- 
+
+
+$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
+$$\mathcal{L}_{\mathrm{eyelid}} = \sum_{t=1}^{T}\sum_{v=1}^{V}\mathcal{M}_{v}^{\mathrm{(eyelid)}}(\hat{h}_{t,v}-x_{t,v}^{2})$$
