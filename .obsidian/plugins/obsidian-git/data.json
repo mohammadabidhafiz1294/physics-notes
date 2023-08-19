@@ -1,17 +1,12 @@
 {
   "commitMessage": "vault backup: {{date}} {{hostname}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 0,
+  "autoSaveInterval": 60,
   "autoPushInterval": 70,
   "autoPullInterval": 120,
   "autoPullOnBoot": true,
-<<<<<<< HEAD
-  "disablePush": true,
-  "pullBeforePush": false,
-=======
   "disablePush": false,
   "pullBeforePush": true,
->>>>>>> refs/remotes/origin/main
   "disablePopups": false,
   "listChangedFilesInMessageBody": true,
   "showStatusBar": true,

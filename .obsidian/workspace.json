@@ -88,7 +88,7 @@
               "type": "backlink",
               "state": {
                 "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -140,11 +140,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,7 +157,7 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "10eb9e86b9b4ad14",
+  "active": "45151bb4f0b50d5f",
   "lastOpenFiles": [
     "PHYSICS/3 Y/STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-2).md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
