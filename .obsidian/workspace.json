@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYSICS/3 Y/STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-2).md",
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYSICS/3 Y/STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-2).md",
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYSICS/3 Y/STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-2).md",
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYSICS/3 Y/STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-2).md"
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md"
               }
             }
           },
@@ -144,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,11 +158,12 @@
   },
   "active": "10eb9e86b9b4ad14",
   "lastOpenFiles": [
-    "PHYSICS/3 Y/SOLID STATE PYSICS (PH-305)/Crystal Systems (CH-1).md",
-    "PHYSICS/3 Y/SOLID STATE PYSICS (PH-305)/Imperfections in Crystals (CH-6).md",
     "PHYSICS/3 Y/STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-2).md",
-    "PHYSICS/3 Y/STATISTICAL MECHANICS (PH-307)/Classical Statistical Mechanics (CH-1).md",
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
     "PHYSICS/3 Y/MathJAX note samples.md",
+    "PHYSICS/3 Y/SOLID STATE PYSICS (PH-305)/Imperfections in Crystals (CH-6).md",
+    "PHYSICS/3 Y/SOLID STATE PYSICS (PH-305)/Crystal Systems (CH-1).md",
+    "PHYSICS/3 Y/STATISTICAL MECHANICS (PH-307)/Classical Statistical Mechanics (CH-1).md",
     "frenkel-defect.jpg.md",
     "PHYSICS/IMAGES/schottky-defect.jpg",
     "PHYSICS/IMAGES/lattice-site-vs-interstitial-site.png",
