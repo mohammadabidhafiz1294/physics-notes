@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2f0515a512739b16",
+        "id": "65a73229a6bdd7df",
         "type": "tabs",
         "children": [
           {
-            "id": "abfa2841558dc8f1",
+            "id": "10eb9e86b9b4ad14",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -55,7 +60,7 @@
             }
           },
           {
-            "id": "329b0b0948d2d972",
+            "id": "33e2eb80b8afe8a4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,41 +82,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "45151bb4f0b50d5f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b7a18773bd5b4352",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "a16055147895d58f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "edd02d6bef25d2a3",
+            "id": "2a97dac14b789773",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +99,48 @@
             }
           },
           {
-            "id": "e8b5dab87f0886c8",
+            "id": "45151bb4f0b50d5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2edfaf6ba807b80",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0525e66132925be3",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md"
+              }
+            }
+          },
+          {
+            "id": "b7a18773bd5b4352",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -147,11 +156,10 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "b7a18773bd5b4352",
+  "active": "10eb9e86b9b4ad14",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
     "PHYSICS/3 Y/STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-2).md",
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
     "PHYSICS/3 Y/MathJAX note samples.md",
     "PHYSICS/3 Y/SOLID STATE PYSICS (PH-305)/Imperfections in Crystals (CH-6).md",
     "PHYSICS/3 Y/SOLID STATE PYSICS (PH-305)/Crystal Systems (CH-1).md",
@@ -165,6 +173,7 @@
     "PHYSICS/IMAGES/BJT terminals.png",
     "PHYSICS/IMAGES",
     "PHYSICS/3 Y/RELATIVITY (PH-308)/Background (CH-1).md",
+    "conflict-files-obsidian-git.md",
     "ac vs dc coupling in capacitor.png",
     "BJT terminals.png",
     "PHYSICS/3 Y/RELATIVITY (PH-308)/Relativistic kinematics.md",
