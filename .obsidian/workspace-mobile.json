@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
-                "mode": "preview",
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
+            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
+            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md"
+            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md"
           }
         }
       },
@@ -150,17 +150,17 @@
   },
   "active": "531a433eb95fa4d5",
   "lastOpenFiles": [
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md",
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/Single stage transistor amplifier.md",
     "PHYSICS/3 Y/STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-2).md",
     "PHYSICS/3 Y/SOLID STATE PYSICS (PH-305)/Imperfections in Crystals (CH-6).md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/A Phase Shift Oscillator.md",
     "PHYSICS/3 Y/MathJAX note samples.md",
-    "PHYSICS/3 Y/PRACTICAL(PH-310)/Single stage transistor amplifier.md",
     "PHYSICS/3 Y/QUANTUM MECHANICS (PH-302)/Physical Basis of Quantum Mechanics (CH-1).md",
-    "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
     "/PHYSICS/3 Y/STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-2).md",
     "/PHYSICS/3 Y/SOLID STATE PYSICS (PH-305)/Imperfections in Crystals (CH-6).md",
     "/PHYSICS/3 Y/MathJAX note samples.md",
-    "PHYSICS/3 Y/PRACTICAL(PH-310)/Untitled.md",
     "conflict-files-obsidian-git.md",
     "frenkel-defect.jpg.md",
     "PHYSICS/IMAGES/schottky-defect.jpg",
