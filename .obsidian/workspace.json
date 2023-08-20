@@ -11,8 +11,13 @@
             "id": "abfa2841558dc8f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md"
+              }
             }
           }
         ],
@@ -147,10 +156,13 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "b7a18773bd5b4352",
+  "active": "abfa2841558dc8f1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "PHYSICS/IMAGES/Geiger-muller tube.png",
+    "PHYSICS/IMAGES/plateu-giger muller.png",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
+    "PHYSICS/IMAGES/geiger-muller counter.jpg",
+    "conflict-files-obsidian-git.md",
     "PHYSICS/3 Y/STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-2).md",
     "PHYSICS/3 Y/MathJAX note samples.md",
     "PHYSICS/3 Y/SOLID STATE PYSICS (PH-305)/Imperfections in Crystals (CH-6).md",
@@ -174,7 +186,6 @@
     "Pasted image 2023080619535.jpg.md",
     "PHYSICS/3 Y/ELECTRONICS (PH-306)/Electronic Devices (ch-3).md",
     "Untitled.canvas",
-    "Pasted image 20230713024050.png",
     "![[Pasted image 20230713024050.png.md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)",
     "PHYSICS/3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Atomic Models (CH-1).md",
