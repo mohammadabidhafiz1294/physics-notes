@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md",
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md",
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md",
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md"
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md"
               }
             }
           }
@@ -158,9 +158,9 @@
   },
   "active": "abfa2841558dc8f1",
   "lastOpenFiles": [
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
     "conflict-files-obsidian-git.md",
-    "PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md",
     "PHYSICS/IMAGES/Geiger-muller tube.png",
     "PHYSICS/IMAGES/plateu-giger muller.png",
     "PHYSICS/IMAGES/geiger-muller counter.jpg",
