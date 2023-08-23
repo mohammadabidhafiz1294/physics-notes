@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md",
-                "mode": "source",
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md",
+            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md",
+            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md"
+            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md"
           }
         }
       },
@@ -148,10 +148,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "531a433eb95fa4d5",
+  "active": "37d9361222066b87",
   "lastOpenFiles": [
-    "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md",
+    "/PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
+    "PHYSICS/IMAGES/geiger-muller counter.jpg",
+    "PHYSICS/IMAGES/Geiger-muller tube.png",
+    "/PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md",
+    "/PHYSICS/IMAGES/geiger-muller counter.jpg",
+    "/PHYSICS/IMAGES/Geiger-muller tube.png",
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/Single stage transistor amplifier.md",
     "PHYSICS/3 Y/STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-2).md",
     "PHYSICS/3 Y/SOLID STATE PYSICS (PH-305)/Imperfections in Crystals (CH-6).md",

@@ -28,12 +28,12 @@ The lab discussion for the absorption of gamma rays by lead and the determinatio
 
 By addressing these key points succinctly, the lab discussion provides a clear overview of the experiment's goals, methods, results, and implications concerning the absorption of gamma rays by lead and the determination of the absorption coefficient.
 
-### equations
+### Equations
 
 ### where alpha goes
 alpha particles are composed of two protons and two neutrons and are emitted from certain types of radioactive decay processes. They have a positive charge and relatively high mass compared to gamma rays. Alpha particles interact with matter through both electromagnetic and strong nuclear forces.
 
-### half life
+### Half life
 Half-life (T½) is a fundamental concept in nuclear physics and chemistry that describes the time it takes for half of the radioactive nuclei in a sample to undergo decay. It's a measure of the stability or rate of decay of a radioactive substance.
 
 Here's a brief explanation of half-life:
@@ -72,7 +72,7 @@ In summary, half-life provides a quantitative measure of the rate of radioactive
  "half value thickness" refers to the thickness of the absorbing material (in this case, lead) that reduces the intensity of the incident gamma rays to half of their initial value.
  when gamma rays pass through the material and the material's thickness reaches the "half value thickness," the intensity of the gamma rays that exit the material will be reduced to half of the intensity they had when they entered the material.
 
-### exponential attenuation law
+### Exponential attenuation law
 
 The exponential attenuation law, also known as the exponential attenuation equation or the Beer-Lambert law for radiation, describes how the intensity of a beam of radiation decreases as it passes through an absorbing material. This law is similar to the Beer-Lambert law for the absorption of light by a solution, but it applies specifically to the attenuation of ionizing radiation like gamma rays.
 
@@ -104,7 +104,7 @@ Key points about the exponential attenuation law:
 
 The exponential attenuation law has applications in various fields, including radiation protection, medical imaging (such as X-rays and gamma-ray imaging), and environmental monitoring. By studying the attenuation of radiation, scientists and engineers can gain insights into the interaction of radiation with matter and make informed decisions about radiation shielding and exposure levels.
 
-### gamma rays (high-energy photons) interact with matter
+### Gamma rays (high-energy photons) interact with matter
 
 Photoelectric Effect, Compton Scattering, and Pair Production are three distinct processes that occur when gamma rays (high-energy photons) interact with matter. These processes provide valuable insights into the behavior of gamma rays and their interactions with atoms and particles. Here's a brief overview of each process:
 
