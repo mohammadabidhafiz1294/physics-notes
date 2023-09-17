@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/A Phase Shift Oscillator.md",
-                "mode": "preview",
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Low pass filter.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/A Phase Shift Oscillator.md",
+            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Low pass filter.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/A Phase Shift Oscillator.md",
+            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Low pass filter.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/A Phase Shift Oscillator.md"
+            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Low pass filter.md"
           }
         }
       },
@@ -150,16 +150,19 @@
   },
   "active": "531a433eb95fa4d5",
   "lastOpenFiles": [
-    "PHYSICS/3 Y/PRACTICAL(PH-310)/Low pass filter.md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/A Phase Shift Oscillator.md",
+    "/PHYSICS/3 Y/PRACTICAL(PH-310)/Low pass filter.md",
+    "/PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
+    "/PHYSICS/3 Y/PRACTICAL(PH-310)/High Pass Filter.md",
+    "/PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md",
+    "/PHYSICS/3 Y/PRACTICAL(PH-310)/A Radio Transmitter.md",
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/Low pass filter.md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/A Radio Transmitter.md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/High Pass Filter.md",
-    "/PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
     "PHYSICS/IMAGES/geiger-muller counter.jpg",
     "PHYSICS/IMAGES/Geiger-muller tube.png",
-    "/PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md",
     "/PHYSICS/IMAGES/geiger-muller counter.jpg",
     "/PHYSICS/IMAGES/Geiger-muller tube.png",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/Single stage transistor amplifier.md",

@@ -1,9 +1,19 @@
+## Low pass L-C Filter
+ A Low-Pass L-C Filter, also known as an LC low-pass filter, is a simple electronic filter circuit that allows low-frequency signals to pass through while attenuating or blocking higher-frequency signals. It's constructed using passive components, namely inductors (L) and capacitors (C). Here's how it works and its key characteristics:
+
+**How it Works**:
+
+1. **Capacitive Reactance (Xc)**: In an LC filter, the capacitor (C) offers a low impedance (called capacitive reactance, \(X_C\)) to high-frequency signals and a high impedance to low-frequency signals. The impedance of the capacitor is inversely proportional to the frequency of the signal, following the formula \(X_C = \frac{1}{2\pi fC}\), where \(f\) is the frequency.
+
+2. **Inductive Reactance (Xl)**: Conversely, the inductor (L) presents high impedance (called inductive reactance, \(X_L\)) to high-frequency signals and low impedance to low-frequency signals. The impedance of the inductor is directly proportional to the frequency, given by \(X_L = 2\pi fL\), where \(f\) is the frequency.
+
+3. **Filter Behavior**: As a result of the contrasting impedance characteristics of the capacitor and inductor, low-frequency signals (below the cutoff frequency) experience less opposition and pass through the filter with minimal attenuation, while high-frequency signals encounter significant impedance and are attenuated.
 #### What is Alpha??
  **Alpha is the attenuation constant**
 
 #### Why Cut off Frequency 70.7%??
 
- When a voltage drops to 70.7%, the effective power it can produce into a resistive load is halved.
+ ==When a voltage drops to 70.7%, the effective power it can produce into a resistive load is halved.==
 
 So, the important thing to note is that a 50% power reduction is equivalent to the voltage reducing to 0.50−−−−√(1/2)=0.707106780.50=0.70710678 or 70.7% approximately.
 
@@ -79,7 +89,7 @@ Attenuation is a fundamental concept in engineering and science, and understandi
 - Signals within the pass band are typically the desired signals that you want to keep or transmit.
 - For example, in a low-pass filter, the pass band includes all frequencies below the cutoff frequency, allowing low-frequency signals to pass while attenuating high-frequency ones.
 
-**Stop band**:
+ **Stop band**:
 
 - The stop band is the range of frequencies within a filter's frequency response where signals are heavily attenuated or blocked.
 - In the stop band, the filter's gain is significantly reduced, and signals within this range are effectively filtered out or blocked.
