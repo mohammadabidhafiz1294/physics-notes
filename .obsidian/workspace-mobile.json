@@ -11,10 +11,12 @@
             "id": "531a433eb95fa4d5",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
-                "staged": false
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/A Phase Shift Oscillator.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -84,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/A Phase Shift Oscillator.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/A Phase Shift Oscillator.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -110,7 +114,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/A Phase Shift Oscillator.md"
+          }
         }
       },
       {
@@ -142,8 +148,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "531a433eb95fa4d5",
+  "active": "4523c02bd79cfc17",
   "lastOpenFiles": [
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/Low pass filter.md",
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/A Radio Transmitter.md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/High Pass Filter.md",
