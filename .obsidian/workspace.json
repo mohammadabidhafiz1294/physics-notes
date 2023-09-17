@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/A Radio Transmitter.md",
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Low pass filter.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/A Radio Transmitter.md",
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Low pass filter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/A Radio Transmitter.md",
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Low pass filter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,16 +135,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/A Radio Transmitter.md"
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Low pass filter.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,10 +159,10 @@
   },
   "active": "abfa2841558dc8f1",
   "lastOpenFiles": [
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/A Radio Transmitter.md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/Radio Transmitter construction with transistor.md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/Low pass filter.md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/High Pass Filter.md",
-    "PHYSICS/3 Y/PRACTICAL(PH-310)/A Radio Transmitter.md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md",
     "conflict-files-obsidian-git.md",
