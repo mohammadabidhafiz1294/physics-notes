@@ -1,4 +1,3 @@
-# Low Pass Filter
 #### What is Alpha??
  **Alpha is the attenuation constant**
 
