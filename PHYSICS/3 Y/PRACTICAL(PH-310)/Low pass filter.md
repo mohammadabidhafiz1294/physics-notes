@@ -1,4 +1,5 @@
-## Low pass L-C Filter
+# Low Pass Filter
+## Low Pass L-C Filter
  A Low-Pass L-C Filter, also known as an LC low-pass filter, is a simple electronic filter circuit that allows low-frequency signals to pass through while attenuating or blocking higher-frequency signals. It's constructed using passive components, namely inductors (L) and capacitors (C). Here's how it works and its key characteristics:
 
 **How it Works**:
@@ -250,14 +251,14 @@ The curves obtained for the magnitude and/or phase angle versus frequency are ca
 
 **7. Active vs. Passive**: Low-pass filters with limited attenuation can be implemented using both passive and active components. Active filters, which include operational amplifiers (op-amps), may provide better control and customization of the filter characteristics.
 
-#### Q-factor in Low-pass filter
+#### Q-factor in Low-pass Filter
  The Q factor, also known as the quality factor, in a low-pass filter refers to its ability to discriminate between desired and undesired signals based on their frequencies. It's a dimensionless parameter that characterizes the performance of the filter. In the context of a low-pass filter:
 
 1. High Q Factor: A high Q factor indicates that the filter has a narrow bandwidth and provides better selectivity by attenuating signals that are significantly different from the cutoff frequency. This is useful for applications where you want to filter out noise or unwanted high-frequency components while preserving the lower-frequency signals.
 
 2. Low Q Factor: Conversely, a low Q factor means the filter has a wider bandwidth and is less selective. It allows a broader range of frequencies to pass through relatively unaffected. Low Q filters are used when you need to preserve a wide range of frequencies without significant attenuation.
 
-#### Propagation constant
+#### Propagation Constant
  a low-pass filter or any other type of transmission line or waveguide, the **propagation constant** (\(\gamma\)) is a parameter that describes how electromagnetic waves (or signals) propagate through the medium. It is a complex quantity that combines information about the phase shift and attenuation (or gain) experienced by the wave as it travels through the medium.
 
 The propagation constant is usually represented as:
@@ -272,4 +273,3 @@ For a low-pass filter or transmission line, the propagation constant provides in
 
 The specific values of \(\alpha\) and \(\beta\) depend on the characteristics of the filter or transmission line, such as its length, impedance, and the frequency of the signals being transmitted. Engineers and scientists use the propagation constant to analyze and design transmission lines, waveguides, and filters, taking into account factors like signal loss and phase distortion.
 
-In summary, the propagation constant in a low-pass filter or any other transmission medium provides information about how signals propagate, attenuate, and phase-shift as they travel through the medium. It is a key parameter in the analysis and design of communication systems and signal processing circuits.
