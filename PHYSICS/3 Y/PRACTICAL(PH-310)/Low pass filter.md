@@ -256,3 +256,20 @@ The curves obtained for the magnitude and/or phase angle versus frequency are ca
 1. High Q Factor: A high Q factor indicates that the filter has a narrow bandwidth and provides better selectivity by attenuating signals that are significantly different from the cutoff frequency. This is useful for applications where you want to filter out noise or unwanted high-frequency components while preserving the lower-frequency signals.
 
 2. Low Q Factor: Conversely, a low Q factor means the filter has a wider bandwidth and is less selective. It allows a broader range of frequencies to pass through relatively unaffected. Low Q filters are used when you need to preserve a wide range of frequencies without significant attenuation.
+
+#### Propagation constant
+ a low-pass filter or any other type of transmission line or waveguide, the **propagation constant** (\(\gamma\)) is a parameter that describes how electromagnetic waves (or signals) propagate through the medium. It is a complex quantity that combines information about the phase shift and attenuation (or gain) experienced by the wave as it travels through the medium.
+
+The propagation constant is usually represented as:
+
+\[ \gamma = \alpha + j\beta \]
+
+Where:
+- \(\alpha\) (alpha) is the attenuation constant, which describes how the amplitude (or magnitude) of the wave decreases as it propagates through the medium. It is measured in nepers per meter (Np/m) or decibels per meter (dB/m).
+- \(\beta\) (beta) is the phase constant, which describes the phase shift of the wave as it travels through the medium. It is measured in radians per meter (rad/m).
+
+For a low-pass filter or transmission line, the propagation constant provides information about how signals at different frequencies are affected as they propagate through the medium. In the case of a low-pass filter, higher-frequency components of a signal are attenuated (reduced in amplitude) more than lower-frequency components, and there is also a phase shift associated with the propagation.
+
+The specific values of \(\alpha\) and \(\beta\) depend on the characteristics of the filter or transmission line, such as its length, impedance, and the frequency of the signals being transmitted. Engineers and scientists use the propagation constant to analyze and design transmission lines, waveguides, and filters, taking into account factors like signal loss and phase distortion.
+
+In summary, the propagation constant in a low-pass filter or any other transmission medium provides information about how signals propagate, attenuate, and phase-shift as they travel through the medium. It is a key parameter in the analysis and design of communication systems and signal processing circuits.
