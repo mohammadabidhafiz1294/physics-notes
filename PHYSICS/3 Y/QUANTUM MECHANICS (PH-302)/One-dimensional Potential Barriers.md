@@ -1,3 +1,4 @@
+
 ### Finite Potential Well Vs Particle in box(Infinite potential) Potential Barriers
   In quantum mechanics, infinite and finite potential square wells offer contrasting yet both highly significant ways to model physical phenomena. Here's a breakdown of their key differences and real-world applications:
 
@@ -38,5 +39,3 @@ The potential barriers in both types of square wells play a crucial role in shap
 - Both infinite and finite square wells are valuable tools in quantum mechanics for modeling various physical phenomena.
 - The choice of well type depends on the specific system being studied and the desired level of detail.
 - The presence and properties of potential barriers play a crucial role in confining particles, enabling tunneling, and determining their energy states.
-
-I hope this clarifies the differences between infinite and finite potential wells and their significance in understanding the behavior of particles in the quantum world. If you have any further questions or specific applications in mind, feel free to ask!
