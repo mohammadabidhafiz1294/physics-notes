@@ -23,7 +23,7 @@
     - Wavefunctions decay exponentially outside the well, reflecting the finite potential barrier.
 - **Applications:**
     - Explains the splitting of energy levels in nuclei due to the presence of potential barriers between nucleons.
-    - Models the formation of bound states in heterostructures, where different materials with different potential profiles are combined.
+    - Models the formation of bound states in hetero-structures, where different materials with different potential profiles are combined.
     - Used to understand the behavior of electrons in tunnel diodes and other devices relying on tunneling phenomena.
 
 **Significance of Potential Barriers:**
