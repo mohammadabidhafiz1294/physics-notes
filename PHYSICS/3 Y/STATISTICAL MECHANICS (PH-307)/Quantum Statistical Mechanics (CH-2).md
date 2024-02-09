@@ -101,6 +101,7 @@ Quantum statistical mechanics bridges the gap between quantum mechanics and ther
 
 - The **ensemble average** of any observable quantity is calculated by averaging its values over all microstates in the ensemble, weighted by their probabilities.
 - This average corresponds to the **expectation value** of the observable in the given macrostate.
+
 6.**Postulate of Random Phases:**
 
 - For a system in a pure state, the wave function representing a microstate can be expressed as a sum of wave functions associated with different arrangements of particles (permutation symmetry).
@@ -126,3 +127,34 @@ This postulate applies to systems with identical particles (bosons or fermions).
 - Investigate the Grand Canonical ensemble, which allows for the exchange of particles with a reservoir.
 - Study the application of quantum statistical mechanics to specific systems like condensed matter, astrophysics, and quantum optics.
 
+### Write down Symmetric and Anti-symmetric Wave Functions for a Three Identical Particles & Three Quantum States System
+In a system with three identical particles and three possible quantum states, there are specific rules for constructing symmetric and anti-symmetric wave functions based on the type of particles involved:
+
+**Bosons:**
+
+- Bosons obey Bose-Einstein statistics and can occupy the same quantum state.
+- **Symmetric wave functions:** Any permutation of particle positions in the wave function results in the same wave function.This means all possible arrangements of particles in the three states contribute to the overall wave function constructively.
+
+**Example:**
+
+Ψ(a,b,c) = 1/√6 ( Φ₁(a)Φ₂(b)Φ₃(c) + Φ₁(a)Φ₃(b)Φ₂(c) + Φ₂(a)Φ₁(b)Φ₃(c) + Φ₂(a)Φ₃(b)Φ₁(c) + Φ₃(a)Φ₁(b)Φ₂(c) + Φ₃(a)Φ₂(b)Φ₁(c) )
+
+where Φ₁(a), Φ₂(a), and Φ₃(a) represent the wave functions of particle "a" in states 1, 2, and 3, respectively.
+
+**Anti-symmetric wave functions:** Not applicable for bosons as they violate the requirement for constructive contributions from all permutations.
+
+**Fermions:**
+
+- Fermions obey Pauli exclusion principle and cannot occupy the same quantum state simultaneously.
+- **Anti-symmetric wave functions:** Each permutation of particle positions in the wave function changes the sign of the wave function. This ensures that no two fermions can occupy the same state.
+
+**Example:**
+
+Ψ(a,b,c) = 1/√6 ( Φ₁(a)Φ₂(b)Φ₃(c) - Φ₁(a)Φ₃(b)Φ₂(c) - Φ₂(a)Φ₁(b)Φ₃(c) + Φ₂(a)Φ₃(b)Φ₁(c) + Φ₃(a)Φ₁(b)Φ₂(c) - Φ₃(a)Φ₂(b)Φ₁(c) )
+
+This example fulfills the anti-symmetry requirement, as each permutation introduces exactly one sign change.
+
+**Important Note:**
+
+- These are just examples, and other valid symmetric/anti-symmetric wave functions can be constructed based on the specific chosen states and permutations.
+- The specific form of the wave function also depends on the type of particles (spin-0, spin-1/2, etc.) and the interactions between them.
