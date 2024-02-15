@@ -1,15 +1,15 @@
 ### Reference Frame - Two Case
 
-#### 1. Inertial Reference frame 
+#### 1. Inertial Reference Frame
  An inertial reference frame is either at rest or moves with a constant velocity.
  
-#### 2. Non-Inertial Frame 
+#### 2. Non-Inertial Frame
  Non−inertial reference frame is a reference frame that is accelerating either in linear fashion or rotating around some axis
 
 ### Event
  In physics, and in particular relativity, an event is **the instantaneous physical situation or occurrence associated with a point in spacetime** (that is, a specific place and time). For example, a glass breaking on the floor is an event; it occurs at a unique place and a unique time.
 
-### Variant & Invariant in both mechanics
+### Variant & Invariant in both Mechanics
  In classical mechanics and relativistic mechanics, "invariant" and "variant" are terms used to describe physical quantities or properties that remain constant or change, respectively, under certain transformations.
 
 1. Invariant: In classical mechanics and relativistic mechanics, an "invariant" is a physical quantity or property that remains constant, independent of the coordinate system or frame of reference used to describe it. In other words, an invariant quantity does not change under certain transformations, such as rotations, translations, or Lorentz transformations in relativistic mechanics.
@@ -26,6 +26,6 @@
 
  >Understanding invariants and variants is essential in analyzing physical phenomena and making predictions in different reference frames, whether in classical mechanics or relativistic mechanics. The presence of invariant quantities often provides valuable insights into the fundamental laws of physics and helps simplify complex calculations and analyses.
 
-##### *Is energy invariant in relativity?*
+##### *Is Energy Invariant in relativity?*
  The relativistic mass corresponds to the energy, so conservation of energy automatically means that relativistic mass is conserved for any given observer and inertial frame. However, this quantity, like the total energy of a particle, is **not invariant**.
 
