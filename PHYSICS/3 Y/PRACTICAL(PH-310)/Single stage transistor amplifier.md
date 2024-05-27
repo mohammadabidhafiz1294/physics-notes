@@ -37,7 +37,7 @@ In electrolytic capacitors Cin  is use to connect the signal to the base of the
 
 It is use in parallel with RE to provide a low reactance path to the amplified a. c. signal. If it is not use then amplified a. c. The signal flowing through RE will cause a voltage drop across it. Thereby reducing the output voltage.
 
-#### **(4) Coupling capacitor C****C** **:**
+#### **(4) Coupling capacitor C**C :
 
 It connects one stage of amplification to the next. If it is not use then the bias condition of the next stage will change due to the shunting effect of RC.
 

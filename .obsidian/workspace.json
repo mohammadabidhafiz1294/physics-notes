@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYSICS/3 Y/RELATIVITY (PH-308)/General Relativity.md",
+                "file": "PHYSICS/4 Y/401 Quantum Mechanics/Matrix Formulation of Q.M..md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYSICS/3 Y/RELATIVITY (PH-308)/General Relativity.md",
+                "file": "PHYSICS/4 Y/401 Quantum Mechanics/Matrix Formulation of Q.M..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYSICS/3 Y/RELATIVITY (PH-308)/General Relativity.md",
+                "file": "PHYSICS/4 Y/401 Quantum Mechanics/Matrix Formulation of Q.M..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYSICS/3 Y/RELATIVITY (PH-308)/General Relativity.md"
+                "file": "PHYSICS/4 Y/401 Quantum Mechanics/Matrix Formulation of Q.M..md"
               }
             }
           }
@@ -159,12 +159,19 @@
   },
   "active": "35f71ef81981529a",
   "lastOpenFiles": [
+    "PHYSICS/4 Y/401 Quantum Mechanics/Matrix Formulation of Q.M..md",
+    "PHYSICS/3 Y/BASIC QUANTUM MECHANICS (PH-302)/Physical Basis of Quantum Mechanics (CH-1).md",
+    "Untitled.md",
+    "PHYSICS/3 Y/BASIC QUANTUM MECHANICS (PH-302)/One-dimensional Potential Barriers.md",
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/Low pass filter.md",
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/High Pass Filter.md",
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/FET characteristics.md",
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/Single stage transistor amplifier.md",
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/A Phase Shift Oscillator.md",
+    "PHYSICS/3 Y/RELATIVITY (PH-308)/General Relativity.md",
     "PHYSICS/3 Y/RELATIVITY (PH-308)/Relativistic kinematics.md",
     "PHYSICS/3 Y/RELATIVITY (PH-308)/Background (CH-1).md",
-    "PHYSICS/3 Y/RELATIVITY (PH-308)/General Relativity.md",
     "PHYSICS/3 Y/STATISTICAL MECHANICS (PH-307)/Fermi-dirac Distribution (CH-3).md",
-    "PHYSICS/3 Y/QUANTUM MECHANICS (PH-302)/One-dimensional Potential Barriers.md",
-    "PHYSICS/3 Y/QUANTUM MECHANICS (PH-302)/Physical Basis of Quantum Mechanics (CH-1).md",
     "README.md",
     "PHYSICS/3 Y/MathJAX note samples.md",
     "PHYSICS/3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/X-Rays (CH-4).md",
@@ -178,13 +185,6 @@
     "PHYSICS/3 Y/STATISTICAL MECHANICS (PH-307)/Classical Statistical Mechanics (CH-1).md",
     "PHYSICS/3 Y/STATISTICAL MECHANICS (PH-307)/Bose Systems(CH-4).md",
     "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
-    "PHYSICS/3 Y/PRACTICAL(PH-310)/Single stage transistor amplifier.md",
-    "PHYSICS/3 Y/PRACTICAL(PH-310)/FET characteristics.md",
-    "PHYSICS/3 Y/PRACTICAL(PH-310)/Calibration Electromagnet coil.md",
-    "PHYSICS/3 Y/ELECTRODYNAMICS (PH-301)/Radiation from an Accelerated Charge (CH-5).md",
-    "PHYSICS/3 Y/PRACTICAL(PH-310)/Low pass filter.md",
-    "PHYSICS/3 Y/PRACTICAL(PH-310)/A Radio Transmitter.md",
-    "PHYSICS/3 Y/PRACTICAL(PH-310)/Radio Transmitter construction with transistor.md",
     "PHYSICS/IMAGES/Geiger-muller tube.png",
     "PHYSICS/IMAGES/plateu-giger muller.png",
     "PHYSICS/IMAGES/geiger-muller counter.jpg",
