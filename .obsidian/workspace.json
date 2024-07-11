@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b133682d89bf6625",
+        "id": "f1dc7e6a4af63ece",
         "type": "tabs",
         "children": [
           {
-            "id": "35f71ef81981529a",
+            "id": "ed02da5b0b67bd6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYSICS/4 Y/401 Quantum Mechanics/Matrix Formulation of Q.M..md",
+                "file": "PHYSICS/QUANTUM/Quantum Computing/Certifications/QNickel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYSICS/4 Y/401 Quantum Mechanics/Matrix Formulation of Q.M..md",
+                "file": "PHYSICS/QUANTUM/Quantum Computing/Certifications/QNickel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYSICS/4 Y/401 Quantum Mechanics/Matrix Formulation of Q.M..md",
+                "file": "PHYSICS/QUANTUM/Quantum Computing/Certifications/QNickel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYSICS/4 Y/401 Quantum Mechanics/Matrix Formulation of Q.M..md"
+                "file": "PHYSICS/QUANTUM/Quantum Computing/Certifications/QNickel.md"
               }
             }
           }
@@ -157,8 +157,17 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "35f71ef81981529a",
+  "active": "ed02da5b0b67bd6b",
   "lastOpenFiles": [
+    "PHYSICS/QUANTUM/Quantum Computing/Untitled.md",
+    "PHYSICS/QUANTUM/Quantum Computing/Certifications/QNickel.md",
+    "PHYSICS/QUANTUM/Quantum Computing/Certifications",
+    "PHYSICS/QUANTUM/Quantum Computing/GATEs/Hadamard Gate.md",
+    "PHYSICS/QUANTUM/Quantum Computing/ALGORITHMS/GROVER's Algorithm.md",
+    "PHYSICS/QUANTUM/Quantum Computing/GATEs",
+    "PHYSICS/QUANTUM/Quantum Computing/Game-Quantum Odyssey.md",
+    "PHYSICS/QUANTUM/Quantum Computing/ALGORITHMS",
+    "Untitled",
     "PHYSICS/4 Y/401 Quantum Mechanics/Matrix Formulation of Q.M..md",
     "PHYSICS/3 Y/BASIC QUANTUM MECHANICS (PH-302)/Physical Basis of Quantum Mechanics (CH-1).md",
     "Untitled.md",
@@ -180,11 +189,6 @@
     "PHYSICS/3 Y/ELECTRONICS (PH-306)/Electronic Devices (ch-3).md",
     "PHYSICS/3 Y/NUCLEAR PHYSICS (PH-304)/Nuclear Reactions (CH-5).md",
     "PHYSICS/3 Y/NUCLEAR PHYSICS (PH-304)/Radioactivity (CH-2).md",
-    "PHYSICS/3 Y/NUCLEAR PHYSICS (PH-304)/the Nucleus (PH-1).md",
-    "PHYSICS/3 Y/STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-2).md",
-    "PHYSICS/3 Y/STATISTICAL MECHANICS (PH-307)/Classical Statistical Mechanics (CH-1).md",
-    "PHYSICS/3 Y/STATISTICAL MECHANICS (PH-307)/Bose Systems(CH-4).md",
-    "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
     "PHYSICS/IMAGES/Geiger-muller tube.png",
     "PHYSICS/IMAGES/plateu-giger muller.png",
     "PHYSICS/IMAGES/geiger-muller counter.jpg",
