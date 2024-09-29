@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://main--starlit-llama-38ec71.netlify.app/">
+    <title>Physics Notes</title>
+    <link href="https://main--starlit-llama-38ec71.netlify.app//feed.xml" rel="self" >
+    <link href="https://main--starlit-llama-38ec71.netlify.app/" >
+    <updated>2024-09-29T18:52:30Z</updated>
+    <id>https://main--starlit-llama-38ec71.netlify.app/</id>
+        <entry>
+            <title>
+                notes
+                
+            </title>
+            <updated>2024-09-29T18:44:13.033Z</updated>
+            <id>https://main--starlit-llama-38ec71.netlify.app//</id>
+            <content type="html">
+                &lt;h3 id=&quot;welcome-to-physics-note-gallery&quot; tabindex=&quot;-1&quot;&gt;Welcome to Physics Note Gallery&lt;/h3&gt;
+
+            </content>
+            <link href="https://main--starlit-llama-38ec71.netlify.app//" >
+        </entry>
+        <entry>
+            <title>
+                Resolving Time G-M tube
+                
+            </title>
+            <updated>2024-09-29T18:43:40.619Z</updated>
+            <id>https://main--starlit-llama-38ec71.netlify.app//src/site/notes/physics/4-y/410-physics-practical/resolving-time-g-m-tube/</id>
+            <content type="html">
+                &lt;p&gt;&lt;strong&gt;What is resolving time??&lt;/strong&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://main--starlit-llama-38ec71.netlify.app//src/site/notes/physics/4-y/410-physics-practical/resolving-time-g-m-tube/" >
+        </entry>
+        <entry>
+            <title>
+                Matrix Formulation of Q.M.
+                
+            </title>
+            <updated>2024-09-29T18:43:01.658Z</updated>
+            <id>https://main--starlit-llama-38ec71.netlify.app//src/site/notes/physics/4-y/401-quantum-mechanics/matrix-formulation-of-q-m/</id>
+            <content type="html">
+                &lt;h3 id=&quot;strong-bra-ket-notation-dirac-notation-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Bra–ket Notation / Dirac Notation&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Bra–ket notation, also called Dirac notation, is a notation for linear algebra and linear operators on complex vector spaces together with their dual space both in the finite-dimensional and infinite-dimensional case.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;ket&lt;/strong&gt; is of the form |𝑣⟩&lt;img src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/0a30e592038265dbec709de73cdb92e8cc55f6b9&quot; alt=&quot;{isplaystyle |vangle }&quot; /&gt;. Mathematically it denotes a &lt;a href=&quot;https://en.wikipedia.org/wiki/Vector_space&quot; title=&quot;Vector space&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;vector&lt;/a&gt;, 𝑣&lt;img src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/9b2c2d3aac4213f3996d828c6aa8f4eb464a05cc&quot; alt=&quot;{isplaystyle {oldsymbol {v}}}&quot; /&gt;, in an abstract (complex) &lt;a href=&quot;https://en.wikipedia.org/wiki/Vector_space&quot; title=&quot;Vector space&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;vector space&lt;/a&gt; 𝑉&lt;img src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/af0f6064540e84211d0ffe4dac72098adfa52845&quot; alt=&quot;{isplaystyle V}&quot; /&gt;, and physically it represents a state of some quantum system.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;bra&lt;/strong&gt; is of the form ⟨𝑓|&lt;img src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/6e99dc122035c8052d1ad9b48a7a305f8b2f3351&quot; alt=&quot;{isplaystyle angle f|}&quot; /&gt;. Mathematically it denotes a linear form   𝑓:𝑉→𝐶, i.e. a that maps each vector in 𝑉&lt;img src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/af0f6064540e84211d0ffe4dac72098adfa52845&quot; alt=&quot;{isplaystyle V}&quot; /&gt; to a number in the complex plane 𝐶&lt;img src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/f9add4085095b9b6d28d045fd9c92c2c09f549a7&quot; alt=&quot;{isplaystyle athbb {C} }&quot; /&gt;. Letting the linear functional ⟨𝑓| act on a vector |𝑣⟩ is written as ⟨𝑓|𝑣⟩∈𝐶&lt;img src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/8b637dde47ba1540c82859da724d9b5f0c4629c3&quot; alt=&quot;{isplaystyle angle f|vangle n athbb {C} }&quot; /&gt;.&lt;/p&gt;
+
+            </content>
+            <link href="https://main--starlit-llama-38ec71.netlify.app//src/site/notes/physics/4-y/401-quantum-mechanics/matrix-formulation-of-q-m/" >
+        </entry>
+        <entry>
+            <title>
+                Maxwell&#39;s Field Equations (CH-1)
+                
+            </title>
+            <updated>2024-09-29T18:43:24.748Z</updated>
+            <id>https://main--starlit-llama-38ec71.netlify.app//src/site/notes/physics/3-y/electrodynamics-ph-301/maxwell-s-field-equations-ch-1/</id>
+            <content type="html">
+                &lt;h2 id=&quot;introduction&quot; tabindex=&quot;-1&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;A branch of physics that deals with the effects arising from the interactions of electric currents with magnets, with other currents, or with themselves.&lt;/p&gt;
+&lt;p&gt;4 laws of electrodynamics&lt;/p&gt;
+&lt;p&gt;The operation of electric motors is governed by various laws of electricity and magnetism, including Faraday&#39;s law of induction, Ampère&#39;s circuital law, Lenz&#39; law, and the Lorentz force.&lt;/p&gt;
+
+            </content>
+            <link href="https://main--starlit-llama-38ec71.netlify.app//src/site/notes/physics/3-y/electrodynamics-ph-301/maxwell-s-field-equations-ch-1/" >
+        </entry>
+        <entry>
+            <title>
+                Resolving Time G-M tube
+                
+            </title>
+            <updated>2024-09-29T18:43:40.619Z</updated>
+            <id>https://main--starlit-llama-38ec71.netlify.app//physics/4-y/410-physics-practical/resolving-time-g-m-tube/</id>
+            <content type="html">
+                &lt;p&gt;&lt;strong&gt;What is resolving time??&lt;/strong&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://main--starlit-llama-38ec71.netlify.app//physics/4-y/410-physics-practical/resolving-time-g-m-tube/" >
+        </entry>
+        <entry>
+            <title>
+                Matrix Formulation of Q.M.
+                
+            </title>
+            <updated>2024-09-29T18:43:01.658Z</updated>
+            <id>https://main--starlit-llama-38ec71.netlify.app//physics/4-y/401-quantum-mechanics/matrix-formulation-of-q-m/</id>
+            <content type="html">
+                &lt;h3 id=&quot;strong-bra-ket-notation-dirac-notation-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Bra–ket Notation / Dirac Notation&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Bra–ket notation, also called Dirac notation, is a notation for linear algebra and linear operators on complex vector spaces together with their dual space both in the finite-dimensional and infinite-dimensional case.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;ket&lt;/strong&gt; is of the form |𝑣⟩&lt;img src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/0a30e592038265dbec709de73cdb92e8cc55f6b9&quot; alt=&quot;{isplaystyle |vangle }&quot; /&gt;. Mathematically it denotes a &lt;a href=&quot;https://en.wikipedia.org/wiki/Vector_space&quot; title=&quot;Vector space&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;vector&lt;/a&gt;, 𝑣&lt;img src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/9b2c2d3aac4213f3996d828c6aa8f4eb464a05cc&quot; alt=&quot;{isplaystyle {oldsymbol {v}}}&quot; /&gt;, in an abstract (complex) &lt;a href=&quot;https://en.wikipedia.org/wiki/Vector_space&quot; title=&quot;Vector space&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;vector space&lt;/a&gt; 𝑉&lt;img src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/af0f6064540e84211d0ffe4dac72098adfa52845&quot; alt=&quot;{isplaystyle V}&quot; /&gt;, and physically it represents a state of some quantum system.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;bra&lt;/strong&gt; is of the form ⟨𝑓|&lt;img src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/6e99dc122035c8052d1ad9b48a7a305f8b2f3351&quot; alt=&quot;{isplaystyle angle f|}&quot; /&gt;. Mathematically it denotes a linear form   𝑓:𝑉→𝐶, i.e. a that maps each vector in 𝑉&lt;img src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/af0f6064540e84211d0ffe4dac72098adfa52845&quot; alt=&quot;{isplaystyle V}&quot; /&gt; to a number in the complex plane 𝐶&lt;img src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/f9add4085095b9b6d28d045fd9c92c2c09f549a7&quot; alt=&quot;{isplaystyle athbb {C} }&quot; /&gt;. Letting the linear functional ⟨𝑓| act on a vector |𝑣⟩ is written as ⟨𝑓|𝑣⟩∈𝐶&lt;img src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/8b637dde47ba1540c82859da724d9b5f0c4629c3&quot; alt=&quot;{isplaystyle angle f|vangle n athbb {C} }&quot; /&gt;.&lt;/p&gt;
+
+            </content>
+            <link href="https://main--starlit-llama-38ec71.netlify.app//physics/4-y/401-quantum-mechanics/matrix-formulation-of-q-m/" >
+        </entry>
+        <entry>
+            <title>
+                Maxwell&#39;s Field Equations (CH-1)
+                
+            </title>
+            <updated>2024-09-29T18:43:24.748Z</updated>
+            <id>https://main--starlit-llama-38ec71.netlify.app//physics/3-y/electrodynamics-ph-301/maxwell-s-field-equations-ch-1/</id>
+            <content type="html">
+                &lt;h2 id=&quot;introduction&quot; tabindex=&quot;-1&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;A branch of physics that deals with the effects arising from the interactions of electric currents with magnets, with other currents, or with themselves.&lt;/p&gt;
+&lt;p&gt;4 laws of electrodynamics&lt;/p&gt;
+&lt;p&gt;The operation of electric motors is governed by various laws of electricity and magnetism, including Faraday&#39;s law of induction, Ampère&#39;s circuital law, Lenz&#39; law, and the Lorentz force.&lt;/p&gt;
+
+            </content>
+            <link href="https://main--starlit-llama-38ec71.netlify.app//physics/3-y/electrodynamics-ph-301/maxwell-s-field-equations-ch-1/" >
+        </entry>
+        <entry>
+            <title>
+                Predictable Questions Atomi science
+                
+            </title>
+            <updated>2024-09-29T18:43:18.013Z</updated>
+            <id>https://main--starlit-llama-38ec71.netlify.app//physics/3-y/atomic-and-molecular-physics-ph-303/predictable-questions-atomi-science/</id>
+            <content type="html">
+                &lt;h3 id=&quot;em-what-is-the-more-sustainable-in-atom-electron-proton-neutron-em&quot; tabindex=&quot;-1&quot;&gt;&lt;em&gt;what is the more sustainable in atom ?? electron /proton /neutron??&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Answer:&lt;/em&gt; &lt;strong&gt;Yes&lt;/strong&gt;. An electron has no internal structure, and is the lightest fundamental particle with a non-zero electric charge. Therefore it cannot spontaneously decay into a lighter particle without violating charge conservation. So any transformation of an electron must either involve adding a large amount of energy to it, or an interaction with another particle (e.g. &lt;a href=&quot;https://en.wikipedia.org/wiki/Electron_capture&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;electron capture&lt;/a&gt; or &lt;a href=&quot;https://en.wikipedia.org/wiki/Electron%E2%80%93positron_annihilation&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;electron-positron annihilation&lt;/a&gt;).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Protons and neutrons, however, are made up of quarks. Outside of a nucleus, a free neutron &lt;a href=&quot;https://en.wikipedia.org/wiki/Free_neutron_decay&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;spontaneously decays&lt;/a&gt; into a proton, an electron and a &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#Neutrino&quot;&gt;#Neutrino&lt;/a&gt;, with a half-life of about 14 minutes. A free proton does not spontaneously decay in a similar way (as far as we know) because its mass is slightly less than the mass of a neutron. However, both neutrons and protons inside unstable nuclei can spontaneously decay via &lt;a href=&quot;https://en.wikipedia.org/wiki/Beta_decay&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;beta decay&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#Neutrino&quot;&gt;#Neutrino&lt;/a&gt;  : Neutrinos are &lt;strong&gt;the most abundant particles that have mass in the universe&lt;/strong&gt;. Every time atomic nuclei come together (like in the sun) or break apart (like in a nuclear reactor), they produce neutrinos. Even a banana emits neutrinos—they come from the natural radioactivity of the potassium in the fruit.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://main--starlit-llama-38ec71.netlify.app//physics/3-y/atomic-and-molecular-physics-ph-303/predictable-questions-atomi-science/" >
+        </entry>
+</feed>

@@ -1,0 +1,65 @@
+[
+{
+		"title": "Predictable Questions Atomi science",
+		"date":"Sun Sep 29 2024 18:52:14 GMT+0000 (Coordinated Universal Time)",
+		"url":"/physics/3-y/atomic-and-molecular-physics-ph-303/predictable-questions-atomi-science/",
+		"content": "what is the more sustainable in atom ?? electron /proton /neutron??\nAnswer: Yes. An electron has no internal structure, and is the lightest fundamental particle with a non-zero electric charge. Therefore it cannot spontaneously decay into a lighter particle without violating charge conservation. So any transformation of an electron must either involve adding a large amount of energy to it, or an interaction with another particle (e.g. electron capture or electron-positron annihilation).\n\nProtons and neutrons, however, are made up of quarks. Outside of a nucleus, a free neutron spontaneously decays into a proton, an electron and a #Neutrino, with a half-life of about 14 minutes. A free proton does not spontaneously decay in a similar way (as far as we know) because its mass is slightly less than the mass of a neutron. However, both neutrons and protons inside unstable nuclei can spontaneously decay via beta decay.\n\n#Neutrino : Neutrinos are the most abundant particles that have mass in the universe. Every time atomic nuclei come together (like in the sun) or break apart (like in a nuclear reactor), they produce neutrinos. Even a banana emits neutrinos—they come from the natural radioactivity of the potassium in the fruit.",
+		"tags": ["Neutrino", "Neutrino", "note"]
+},
+
+{
+		"title": "Maxwell's Field Equations (CH-1)",
+		"date":"Sun Sep 29 2024 18:52:14 GMT+0000 (Coordinated Universal Time)",
+		"url":"/physics/3-y/electrodynamics-ph-301/maxwell-s-field-equations-ch-1/",
+		"content": "Introduction\nA branch of physics that deals with the effects arising from the interactions of electric currents with magnets, with other currents, or with themselves.\n4 laws of electrodynamics\nThe operation of electric motors is governed by various laws of electricity and magnetism, including Faraday's law of induction, Ampère's circuital law, Lenz' law, and the Lorentz force.",
+		"tags": [ "note"]
+},
+
+{
+		"title": "Matrix Formulation of Q.M.",
+		"date":"Sun Sep 29 2024 18:52:14 GMT+0000 (Coordinated Universal Time)",
+		"url":"/physics/4-y/401-quantum-mechanics/matrix-formulation-of-q-m/",
+		"content": "Bra–ket Notation / Dirac Notation\nBra–ket notation, also called Dirac notation, is a notation for linear algebra and linear operators on complex vector spaces together with their dual space both in the finite-dimensional and infinite-dimensional case.\nA ket is of the form |𝑣⟩. Mathematically it denotes a vector, 𝑣, in an abstract (complex) vector space 𝑉, and physically it represents a state of some quantum system.\nA bra is of the form ⟨𝑓|. Mathematically it denotes a linear form  𝑓:𝑉→𝐶, i.e. a that maps each vector in 𝑉 to a number in the complex plane 𝐶. Letting the linear functional ⟨𝑓| act on a vector |𝑣⟩ is written as ⟨𝑓|𝑣⟩∈𝐶.",
+		"tags": [ "note"]
+},
+
+{
+		"title": "Resolving Time G-M tube",
+		"date":"Sun Sep 29 2024 18:52:14 GMT+0000 (Coordinated Universal Time)",
+		"url":"/physics/4-y/410-physics-practical/resolving-time-g-m-tube/",
+		"content": "What is resolving time??",
+		"tags": [ "note"]
+},
+
+{
+		"title": "Maxwell's Field Equations (CH-1)",
+		"date":"Sun Sep 29 2024 18:52:14 GMT+0000 (Coordinated Universal Time)",
+		"url":"/src/site/notes/physics/3-y/electrodynamics-ph-301/maxwell-s-field-equations-ch-1/",
+		"content": "Introduction\nA branch of physics that deals with the effects arising from the interactions of electric currents with magnets, with other currents, or with themselves.\n4 laws of electrodynamics\nThe operation of electric motors is governed by various laws of electricity and magnetism, including Faraday's law of induction, Ampère's circuital law, Lenz' law, and the Lorentz force.",
+		"tags": [ "note"]
+},
+
+{
+		"title": "Matrix Formulation of Q.M.",
+		"date":"Sun Sep 29 2024 18:52:14 GMT+0000 (Coordinated Universal Time)",
+		"url":"/src/site/notes/physics/4-y/401-quantum-mechanics/matrix-formulation-of-q-m/",
+		"content": "Bra–ket Notation / Dirac Notation\nBra–ket notation, also called Dirac notation, is a notation for linear algebra and linear operators on complex vector spaces together with their dual space both in the finite-dimensional and infinite-dimensional case.\nA ket is of the form |𝑣⟩. Mathematically it denotes a vector, 𝑣, in an abstract (complex) vector space 𝑉, and physically it represents a state of some quantum system.\nA bra is of the form ⟨𝑓|. Mathematically it denotes a linear form  𝑓:𝑉→𝐶, i.e. a that maps each vector in 𝑉 to a number in the complex plane 𝐶. Letting the linear functional ⟨𝑓| act on a vector |𝑣⟩ is written as ⟨𝑓|𝑣⟩∈𝐶.",
+		"tags": [ "note"]
+},
+
+{
+		"title": "Resolving Time G-M tube",
+		"date":"Sun Sep 29 2024 18:52:14 GMT+0000 (Coordinated Universal Time)",
+		"url":"/src/site/notes/physics/4-y/410-physics-practical/resolving-time-g-m-tube/",
+		"content": "What is resolving time??",
+		"tags": [ "note"]
+},
+
+{
+		"title": "notes",
+		"date":"Sun Sep 29 2024 18:52:14 GMT+0000 (Coordinated Universal Time)",
+		"url":"/",
+		"content": "Welcome to Physics Note Gallery",
+		"tags": [ "note","gardenEntry"]
+}
+]
