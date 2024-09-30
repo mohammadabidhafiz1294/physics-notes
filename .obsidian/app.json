@@ -1,0 +1,36 @@
+{
+  "mobileToolbarCommands": [
+    "editor:insert-tag",
+    "editor:insert-wikilink",
+    "editor:toggle-highlight",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-blockquote",
+    "editor:toggle-strikethrough",
+    "editor:toggle-code",
+    "editor:attach-file",
+    "editor:insert-embed",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:redo",
+    "editor:toggle-keyboard",
+    "editor:configure-toolbar",
+    "editor:toggle-checklist-status",
+    "editor:undo"
+  ],
+  "promptDelete": false,
+  "vimMode": false,
+  "legacyEditor": false,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 87
+  }
+}

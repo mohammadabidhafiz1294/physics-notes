@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "f737ee7822e8c87e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ed6adfb01bbe8d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "531a433eb95fa4d5",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "PHYSICS/IMAGES/interstial-vs-vacancy-diffusion-OPT.svg",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "f0d77523644567b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Low pass filter.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9431735bae5e7ce3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "37d9361222066b87",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "51d2b30956e4dbb4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "59e4eef59548aacf",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "843073b08cf2a433",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3bdada2a66db03c5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "87b0a10f6aa7988c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Low pass filter.md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1e7a0df63d13edd9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Low pass filter.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1f629b896bff9baf",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "PHYSICS/3 Y/PRACTICAL(PH-310)/Low pass filter.md"
+          }
+        }
+      },
+      {
+        "id": "e3ac3e80d3e25570",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "4523c02bd79cfc17",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "f0d77523644567b1",
+  "lastOpenFiles": [
+    "PHYSICS/IMAGES/interstial-vs-vacancy-diffusion-OPT.svg",
+    "/PHYSICS/IMAGES/interstial-vs-vacancy-diffusion-OPT.svg",
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/Low pass filter.md",
+    "PHYSICS/3 Y/RELATIVITY (PH-308)/Background (CH-1).md",
+    "PHYSICS/3 Y/NUCLEAR PHYSICS (PH-304)/Nuclear Reactions (CH-5).md",
+    "PHYSICS/3 Y/NUCLEAR PHYSICS (PH-304)/Radioactivity (CH-2).md",
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/A Phase Shift Oscillator.md",
+    "/PHYSICS/3 Y/PRACTICAL(PH-310)/Low pass filter.md",
+    "/PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
+    "/PHYSICS/3 Y/PRACTICAL(PH-310)/High Pass Filter.md",
+    "/PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md",
+    "/PHYSICS/3 Y/PRACTICAL(PH-310)/A Radio Transmitter.md",
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/A Radio Transmitter.md",
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/Gamma ray absorptions.md",
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/Plateau determination & Geiger-Muller Counter(P-1).md",
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/High Pass Filter.md",
+    "PHYSICS/IMAGES/geiger-muller counter.jpg",
+    "PHYSICS/IMAGES/Geiger-muller tube.png",
+    "/PHYSICS/IMAGES/geiger-muller counter.jpg",
+    "/PHYSICS/IMAGES/Geiger-muller tube.png",
+    "PHYSICS/3 Y/PRACTICAL(PH-310)/Single stage transistor amplifier.md",
+    "PHYSICS/3 Y/STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-2).md",
+    "PHYSICS/3 Y/SOLID STATE PYSICS (PH-305)/Imperfections in Crystals (CH-6).md",
+    "PHYSICS/3 Y/MathJAX note samples.md",
+    "PHYSICS/3 Y/QUANTUM MECHANICS (PH-302)/Physical Basis of Quantum Mechanics (CH-1).md",
+    "/PHYSICS/3 Y/STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-2).md",
+    "/PHYSICS/3 Y/SOLID STATE PYSICS (PH-305)/Imperfections in Crystals (CH-6).md",
+    "/PHYSICS/3 Y/MathJAX note samples.md",
+    "conflict-files-obsidian-git.md",
+    "frenkel-defect.jpg.md",
+    "PHYSICS/IMAGES/schottky-defect.jpg",
+    "PHYSICS/IMAGES/lattice-site-vs-interstitial-site.png",
+    "PHYSICS/IMAGES/frenkel-defect.jpg",
+    "PHYSICS/IMAGES/ac vs dc coupling in capacitor.png",
+    "PHYSICS/IMAGES/BJT terminals.png",
+    "PHYSICS/IMAGES"
+  ]
+}
