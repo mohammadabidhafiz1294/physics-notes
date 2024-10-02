@@ -14,3 +14,21 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# Ignore the .trash
+docs/.trash
+
+
+node_modules
+public
+prof
+tsconfig.tsbuildinfo
+docs/.obsidian
+.quartz-cache
+private/
+.replit
+replit.nix
+.DS_Store
+
+.obsidian
+.vscode
