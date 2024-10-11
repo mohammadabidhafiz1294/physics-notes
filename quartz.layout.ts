@@ -7,11 +7,12 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [
     Component.Backlinks(),
   ],
-  footer: Component.DesktopOnly(Component.Footer({
-    links: {
-      GitHub: "https://github.com/mohammadabidhafiz1294/tech-notes",
-    },
-  })),
+  footer:
+    Component.DesktopOnly(Component.Footer({
+      links: {
+        GitHub: "https://github.com/mohammadabidhafiz1294/physics-notes",
+      },
+    })),
 }
 
 // components for pages that display a single page (e.g. a single note)

@@ -11,7 +11,7 @@ To determine the result of applying \( $H^{\otimes 4}$ \) to $( \ket{15} )$, let
 
    $$H\ket{0} = \frac{1}{\sqrt{2}} (\ket{0} + \ket{1})$$
    
-   $$ H\ket{1} = \frac{1}{\sqrt{2}} (\ket{0} - \ket{1})$$
+   $$H\ket{1} = \frac{1}{\sqrt{2}} (\ket{0} - \ket{1})$$
 
 3. **Apply ( $H^{\otimes 4}$ ) to ( $\ket {1111}$)**:
 

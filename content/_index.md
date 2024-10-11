@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz 4
+title: Welcome to Physics-Note Archieve
 ---
 
-Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers are [[showcase|already using Quartz]] to publish personal notes, websites, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
+Here, you found the Physics topic wise notes.
 
+If you want to contribute this note, fill free to PR [Github](https://github.com/mohammadabidhafiz1294/physics-notes) repo.

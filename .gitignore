@@ -30,5 +30,5 @@ private/
 replit.nix
 .DS_Store
 
-.obsidian
+# .obsidian
 .vscode
