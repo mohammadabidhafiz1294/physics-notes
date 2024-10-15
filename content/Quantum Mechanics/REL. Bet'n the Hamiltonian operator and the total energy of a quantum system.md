@@ -1,10 +1,9 @@
 ---
 title: Hamiltonian Operator & Total Energy Relation of a Quantum System
 tags:
-  - Hamiltonian-Operator
+  - Physics/Hamiltonian-Operator
   - Quantum-system
-  - Schrödinger-equation
-  - TISE
+  - Quantum-mechanics/Schrödinger-equation
 ---
 #### The Hamiltonian: The Architect of Quantum Energy
 
@@ -37,4 +36,4 @@ The sources further emphasize that:
 - **Multi-particle Systems:**
     - The Hamiltonian expands to accommodate the kinetic energy of each particle and the intricate dance of potential energy due to inter-particle interactions.
 
-In essence, the Hamiltonian operator is the maestro of quantum energy. Its eigenvalues dictate the possible energies a quantum system can possess, making the Schrödinger equation the grand stage where the drama of quantum energy unfolds.
+In essence, the Hamiltonian operator is the maestro of quantum energy. Its eigenvalues dictate the possible energies a #Quantum-system system can possess, making the Schrödinger equation the grand stage where the drama of quantum energy unfolds.
