@@ -1,9 +1,8 @@
 ---
 title: Hamiltonian Operator & Total Energy Relation of a Quantum System
 tags:
-  - Physics/Hamiltonian-Operator
-  - Quantum-system
-  - Quantum-Mechanics/Schrödinger-equation
+  - physics/hamiltonian-Operator
+  - quantum-mechanics/schrödinger-equation
 ---
 #### The Hamiltonian: The Architect of Quantum Energy
 
