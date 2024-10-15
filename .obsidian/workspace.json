@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Quantum Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md",
+                "file": "content/Quantum Computing/GATEs/Hadamard Gate.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Quantum Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md",
+                "file": "content/Quantum Computing/GATEs/Hadamard Gate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Quantum Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md",
+                "file": "content/Quantum Computing/GATEs/Hadamard Gate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Quantum Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md"
+                "file": "content/Quantum Computing/GATEs/Hadamard Gate.md"
               }
             }
           }
@@ -160,15 +160,17 @@
   },
   "active": "ed02da5b0b67bd6b",
   "lastOpenFiles": [
-    "PHYSICS/QUANTUM/Quantum Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md",
+    "content/Quantum Computing/Hadamard Gate.md",
+    "content/Quantum Computing/GATEs/Hadamard Gate.md",
+    "content/Quantum Computing/GROVER's Algorithm.md",
     "content/Quantum Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md",
+    "PHYSICS/QUANTUM/Quantum Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md",
     "content/Quantum Mechanics",
     "PHYSICS/QUANTUM/Quantum Computing/Certifications/QNickel.md",
     "PHYSICS/QUANTUM/Quantum Computing/Untitled.md",
     "PHYSICS/QUANTUM/Quantum Computing/Certifications",
-    "PHYSICS/QUANTUM/Quantum Computing/GATEs/Hadamard Gate.md",
     "PHYSICS/QUANTUM/Quantum Computing/ALGORITHMS/GROVER's Algorithm.md",
-    "PHYSICS/QUANTUM/Quantum Computing/GATEs",
+    "content/Quantum Computing/GATEs",
     "PHYSICS/QUANTUM/Quantum Computing/Game-Quantum Odyssey.md",
     "PHYSICS/QUANTUM/Quantum Computing/ALGORITHMS",
     "Untitled",
@@ -189,8 +191,6 @@
     "PHYSICS/3 Y/MathJAX note samples.md",
     "PHYSICS/3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/X-Rays (CH-4).md",
     "PHYSICS/3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Atomic Models (CH-1).md",
-    "PHYSICS/3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
-    "PHYSICS/3 Y/ELECTRONICS (PH-306)/Electronic Devices (ch-3).md",
     "PHYSICS/IMAGES/Geiger-muller tube.png",
     "PHYSICS/IMAGES/plateu-giger muller.png",
     "PHYSICS/IMAGES/geiger-muller counter.jpg",
