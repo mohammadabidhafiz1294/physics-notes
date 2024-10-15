@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Quantum Computing/GATEs/Hadamard Gate.md",
+                "file": "content/Quantum Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Quantum Computing/GATEs/Hadamard Gate.md",
+                "file": "content/Quantum Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Quantum Computing/GATEs/Hadamard Gate.md",
+                "file": "content/Quantum Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Quantum Computing/GATEs/Hadamard Gate.md"
+                "file": "content/Quantum Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "ed02da5b0b67bd6b",
   "lastOpenFiles": [
-    "content/Quantum Computing/Hadamard Gate.md",
     "content/Quantum Computing/GATEs/Hadamard Gate.md",
+    "content/Quantum Computing/Hadamard Gate.md",
     "content/Quantum Computing/GROVER's Algorithm.md",
     "content/Quantum Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md",
     "PHYSICS/QUANTUM/Quantum Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md",
