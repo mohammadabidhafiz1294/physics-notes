@@ -3,11 +3,11 @@ title: Hamiltonian Operator & Total Energy Relation of a Quantum System
 tags:
   - Physics/Hamiltonian-Operator
   - Quantum-system
-  - Quantum-mechanics/Schrödinger-equation
+  - Quantum-Mechanics/Schrödinger-equation
 ---
 #### The Hamiltonian: The Architect of Quantum Energy
 
-The #Hamiltonian-Operator (Ĥ) is the cornerstone of quantum mechanics when it comes to understanding the energy of a system. It acts as a mathematical representation of the **total energy**, encompassing both the kinetic and potential energy contributions. The sources illuminate the profound connection between the Hamiltonian operator and a system's total energy through the lens of the time-independent Schrödinger equation ( #TISE ).
+The Hamiltonian-Operator (Ĥ) is the cornerstone of quantum mechanics when it comes to understanding the energy of a system. It acts as a mathematical representation of the **total energy**, encompassing both the kinetic and potential energy contributions. The sources illuminate the profound connection between the Hamiltonian operator and a system's total energy through the lens of the time-independent Schrödinger equation ( #TISE ).
 
 - The TISE, written as **$Ĥψ(x) = Eψ(x)$**, is not just an equation; it's a declaration of the Hamiltonian's role as the arbiter of allowed energy levels.
     - The **eigenfunctions** of the Hamiltonian, denoted by ψ(x), represent the system's possible states, and their corresponding **eigenvalues (E)** reveal the quantized energy levels the system can occupy.

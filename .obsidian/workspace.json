@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f1dc7e6a4af63ece",
+        "id": "33372b18a7251345",
         "type": "tabs",
         "children": [
           {
-            "id": "ed02da5b0b67bd6b",
+            "id": "0427d9f309dda379",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Quantum Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md",
+                "file": "content/Quantum-Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Quantum-Mechanics/Schrödinger-equation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Quantum Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md",
+                "file": "content/Quantum-Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Quantum Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md",
+                "file": "content/Quantum-Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Quantum Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md"
+                "file": "content/Quantum-Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md"
               }
             }
           }
@@ -158,14 +159,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f49ad38d21384c0",
+  "active": "998294d78f844e2a",
   "lastOpenFiles": [
+    "CODE_OF_CONDUCT.md",
+    "content/Quantum-Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md",
     "content/Quantum Computing/GATEs/Hadamard Gate.md",
     "content/Quantum Computing/Hadamard Gate.md",
     "content/Quantum Computing/GROVER's Algorithm.md",
-    "content/Quantum Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md",
     "PHYSICS/QUANTUM/Quantum Mechanics/REL. Bet'n the Hamiltonian operator and the total energy of a quantum system.md",
-    "content/Quantum Mechanics",
+    "content/Quantum-Mechanics",
     "PHYSICS/QUANTUM/Quantum Computing/Certifications/QNickel.md",
     "PHYSICS/QUANTUM/Quantum Computing/Untitled.md",
     "PHYSICS/QUANTUM/Quantum Computing/Certifications",
@@ -190,7 +192,6 @@
     "README.md",
     "PHYSICS/3 Y/MathJAX note samples.md",
     "PHYSICS/3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/X-Rays (CH-4).md",
-    "PHYSICS/3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Atomic Models (CH-1).md",
     "PHYSICS/IMAGES/Geiger-muller tube.png",
     "PHYSICS/IMAGES/plateu-giger muller.png",
     "PHYSICS/IMAGES/geiger-muller counter.jpg",
