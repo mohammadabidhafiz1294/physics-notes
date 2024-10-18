@@ -1,5 +1,6 @@
 [
   "quick-latex",
   "obsidian-git",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-linter"
 ]

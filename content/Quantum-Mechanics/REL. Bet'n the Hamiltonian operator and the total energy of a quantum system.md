@@ -14,8 +14,10 @@ The Hamiltonian-Operator (Ĥ) is the cornerstone of quantum mechanics when it c
 
 The sources provide explicit forms of the Hamiltonian operator, bridging the gap between classical and quantum realms:
 
-- In one dimension: **$$Ĥ = -(ħ²/2m) ∂²/∂x² + V$$**
-    - This mirrors the classical Hamiltonian $$H(x, p) = (p²/2m) + V(x)$$, where the momentum (p) is replaced by its quantum operator counterpart **$-iħ ∂/∂x$**.
+- In one dimension: 
+$$Ĥ = -(ħ²/2m) ∂²/∂x² + V$$
+    - This mirrors the classical Hamiltonian 
+    $$H(x, p) = (p²/2m) + V(x)$$, where the momentum (p) is replaced by its quantum operator counterpart **$-iħ ∂/∂x$**.
 - In three dimensions: **$$Ĥ = -(ħ²/2m) ∇² + V$$
     - The Laplacian operator (∇²) steps in to account for the spatial complexity.
 
